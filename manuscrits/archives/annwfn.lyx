@@ -1,0 +1,7217 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass extbook
+\begin_preamble
+\@ifundefined{definecolor}
+ {\usepackage{color}}{}
+\usepackage{babel}
+\end_preamble
+\options 8pt
+\use_default_options false
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+foottoend
+\end_modules
+\maintain_unincluded_children false
+\language french
+\language_package default
+\inputencoding latin9
+\fontencoding T1
+\font_roman charter
+\font_sans helvet
+\font_typewriter courier
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_title "Chroniques d'Annwfn"
+\pdf_author "Laurent Doudiès"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize a5paper
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 0
+\use_mathdots 0
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language french
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Chroniques d'Annwfn
+\end_layout
+
+\begin_layout Part
+Livre premier : Le prophète
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename cartes/annwfn-royaumes800.png
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+La Tour
+\end_layout
+
+\begin_layout Quotation
+
+\size footnotesize
+~ De l'expérience ~
+\end_layout
+
+\begin_layout Quotation
+
+\size footnotesize
+Chaque route que l
+\begin_inset Quotes ers
+\end_inset
+
+on suit exactement jusqu
+\begin_inset Quotes ers
+\end_inset
+
+au bout ne conduit exactement à rien.
+ Escaladez la montagne pour voir si c
+\begin_inset Quotes ers
+\end_inset
+
+est bien une montagne.
+ Quand vous serez au sommet de la montagne, vous ne pourrez plus voir la
+ montagne...
+\end_layout
+
+\begin_layout Quote
+
+\size footnotesize
+Extrait du livre du Lid-gesah'Arch de Herckrt-N'Bafer
+\end_layout
+
+\begin_layout Quote
+ 
+\end_layout
+
+\begin_layout Standard
+Un lourd soleil d
+\begin_inset Quotes ers
+\end_inset
+
+ambre embrasait le désert de Chanseth.
+ L
+\begin_inset Quotes ers
+\end_inset
+
+aigle survolait l
+\begin_inset Quotes ers
+\end_inset
+
+étendue de dunes.
+ Il la vit de loin, se rapprocher de lui.
+ D
+\begin_inset Quotes ers
+\end_inset
+
+un mouvement ample de ses rémiges il passa au-dessus.
+ C
+\begin_inset Quotes ers
+\end_inset
+
+est à peine si sa tête se retourna pour la contempler.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing single
+La tour s
+\begin_inset Quotes ers
+\end_inset
+
+élevait, maintenant derrière lui, sombre et massive.
+ Elle semblait posée au milieu d
+\begin_inset Quotes ers
+\end_inset
+
+un océan aux milliers de nuances d
+\begin_inset Quotes ers
+\end_inset
+
+ocre et d'argent, seul signe de civilisation à des milles à la ronde.
+ Mais, le rapace déjà s
+\begin_inset Quotes ers
+\end_inset
+
+éloignait.
+ 
+\end_layout
+
+\begin_layout Standard
+C
+\begin_inset Quotes ers
+\end_inset
+
+était un cylindre de pierres noires, percé ça et là de meurtrières, apparemment
+ disposées anarchiquement.
+ Les rayons du soleil pénétraient, tout au long de la journée par au moins
+ une d'elles, et venaient se refléter sur un apparent fatras de miroirs
+ disposés sur l
+\begin_inset Quotes ers
+\end_inset
+
+ensemble des murs intérieurs de la tour.
+ Le jeu de la réflexion créait une boule de feu au centre de la tour.
+ Ce foyer incandescent s
+\begin_inset Quotes ers
+\end_inset
+
+élevait au fur et à mesure que la journée s
+\begin_inset Quotes ers
+\end_inset
+
+étirait.
+\end_layout
+
+\begin_layout Standard
+A la base de l
+\begin_inset Quotes ers
+\end_inset
+
+édifice des jours appelaient l
+\begin_inset Quotes ers
+\end_inset
+
+air, qui au contact du foyer brûlant, se répandait ensuite dans les boyaux
+ et galeries courant sous le désert, réchauffant ainsi, ce que d
+\begin_inset Quotes ers
+\end_inset
+
+aucun appelait «la Tour ».
+ L
+\begin_inset Quotes ers
+\end_inset
+
+oiseau oublia ce qu
+\begin_inset Quotes ers
+\end_inset
+
+il avait vu, et plongea vers l
+\begin_inset Quotes ers
+\end_inset
+
+oasis et la caravane qui campait autour, minuscule amas vibrant sur la surface
+ or et cuivre du désert.
+ Pendant ce temps, les courants d
+\begin_inset Quotes ers
+\end_inset
+
+air chauds bondissaient de boyaux en conduits naturels, pour chauffer quelques
+ dizaines de kilomètres de galeries et cavernes.
+\end_layout
+
+\begin_layout Standard
+Kalindahar, semblait voir au-delà du plateau de jeu.
+ Elvan aurait juré que le vieil homme savait déjà tout de la partie qu
+\begin_inset Quotes ers
+\end_inset
+
+ils venaient de commencer.
+ Qu
+\begin_inset Quotes ers
+\end_inset
+
+importe, il essayerait de vaincre.
+ Le Krül était un jeu terra-mercurien, importé il y a plus d'un millier
+ d'années par les colons.
+ Tactique, ce jeu était simple à apprendre, mais s'avérait difficile à maitriser.
+ Elvan n
+\begin_inset Quotes ers
+\end_inset
+
+arrivait toujours pas, en dix années, à allier efficacement la notion de
+ zone à celle de ligne d
+\begin_inset Quotes ers
+\end_inset
+
+attaque.
+ Soit Kalindahar perçait ses lignes et prenait le contrôle des territoires,
+ soit l
+\begin_inset Quotes ers
+\end_inset
+
+attaque d
+\begin_inset Quotes ers
+\end_inset
+
+ Elvan s
+\begin_inset Quotes ers
+\end_inset
+
+écrasait sur des murs infranchissables, et ses armées se retournaient contre
+ lui.
+\end_layout
+
+\begin_layout Standard
+Pendant que le jeune homme se torturait les méninges pour contrer efficacement
+ son maître, Kalindahar l'observait du coin de son seul œil valide.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Comme ils se ressemblent...
+ même yeux clairs, même cheveux châtains cuivrés...
+ il fait plus âgé.
+ Sans doute cette petite ride d'expression entre les deux yeux à la base
+ du front...
+ Ou bien est-ce moi qui veut y voir plus de sagesse.
+\end_layout
+
+\begin_layout Standard
+Le vieil homme sourit à cette pensée.
+ Elvan venait de jouer et se renfrogna à la vue de ce sourire qu'il interpréta
+ de travers.
+
+\shape italic
+ J'ai encore joué comme un pied !
+\shape default
+ Se dit-il.
+\end_layout
+
+\begin_layout Standard
+La partie dura un peu plus de trente minutes.
+ Elvan essaya d
+\begin_inset Quotes ers
+\end_inset
+
+en tirer un peu de fierté, en vain.
+ Il avait fait, selon lui, erreur sur erreur, et le maigre réconfort de
+ son record de longévité ne suffisait pas à faire oublier cette ultime défaite.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Je partirai donc sans vous avoir vaincu.
+\end_layout
+
+\begin_layout Standard
+Alors qu'il quittait la petite bibliothèque qui jouxtait les appartements
+ du grand maître, il maugréa encore un peu sur son manque de concentration.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Qu'est-ce qui te fait peur ?
+\shape default
+ Il se fit une raison, sourit intérieurement et pénétra dans la chambre
+ qu
+\begin_inset Quotes ers
+\end_inset
+
+il partageait avec son ami Leysseen.
+ C
+\begin_inset Quotes ers
+\end_inset
+
+était une petite pièce exiguë, taillée dans la roche.
+ Il y avait de la place pour deux lits, une table et deux tabourets en bois
+ usés.
+ Les deux jeunes avaient essayé de personnaliser l'austère rectangle en
+ accrochant quelques vieux tissus brodés aux murs.
+ Malgré cette sobriété, la chambre était tout de même agréable.
+ Leysseen n
+\begin_inset Quotes ers
+\end_inset
+
+était pas là, mais ses affaires étaient déjà prêtes.
+ Un vieux sac de peau élimée, contenait les deux ou trois affaires du jeune
+ homme.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Il faut que je prépare les miennes.
+ Pourquoi tant de réticence ? De quoi as-tu peur ?
+\end_layout
+
+\begin_layout Standard
+Il aurait dû être content de quitter la Tour, de découvrir enfin le monde.
+ Après dix-sept ans passés dans ces sombres cavernes, éclairées seulement
+ par les torches et la lumilite, un cristal luminescent, il allait pouvoir
+ voir Krill, le grand œil, le soleil diurne briller de ses feux rouges et
+ son double la naine blanche K'Ali-Krill éclairer la nuit annouvéenne.
+ Mais il n'arrivait pas à s'en réjouir, pas comme il pensait qu'il l'aurait
+ dû en tout cas.
+\end_layout
+
+\begin_layout Standard
+Dans ce labyrinthe, vivaient une vingtaine d
+\begin_inset Quotes ers
+\end_inset
+
+enfants, de 2 à 19 ans, et neuf adultes.
+ Les frères-parents s'occupaient de l'éducation, de l'éveil à la connaissance
+ de ces orphelins que la vie avait oubliés.
+ Certains avaient été rejeté par leurs parents et vivaient dans des coins
+ où même les porcs n'iraient pas dormir.
+ D'autres encore, s'étaient retrouvés du jour au lendemain seuls, brisés
+ par la guerre et son cortège de fléaux avant qu'un frère-parent ne passe
+ et ne décide de les accueillir dans la lumière d'Eù...
+ Avant leur vingtième année révolue, les novices devaient quitter la Tour...
+ 
+\shape italic
+Et après...
+ C'était ça ! Cet inconnu...
+\end_layout
+
+\begin_layout Standard
+Elvan contemplait le sac.
+ D
+\begin_inset Quotes ers
+\end_inset
+
+un coup, son esprit fut comme happé.
+ Sa conscience se mit à tournoyer, à s
+\begin_inset Quotes ers
+\end_inset
+
+abimer au plus profond de son être.
+ Puis il y eut les chocs, secs, répétitifs, douloureux.
+ Des images aveuglantes lui vrillaient la tête.
+ Des sons cataclysmiques frappaient ses tympans.
+ Il n'eut pas conscience de saisir violemment sa tête entre ses deux mains
+ et tomba à genoux.
+ Il y eut un souffle froid, le noir puis le vide.
+\end_layout
+
+\begin_layout Standard
+Quand il réalisa qu
+\begin_inset Quotes ers
+\end_inset
+
+il ne souffrait plus, il ouvrit les yeux.
+ Il crut alors que sa raison allait vaciller.
+ Devant lui se dressait un dragon à trois têtes aux couleurs de jade et
+ d
+\begin_inset Quotes ers
+\end_inset
+
+émeraude.
+ Face au dragon, se tenait un être démoniaque, transfiguré par la haine
+ et la douleur.
+ Un chevalier du mal, fichu d
+\begin_inset Quotes ers
+\end_inset
+
+une armure rouillée d
+\begin_inset Quotes ers
+\end_inset
+
+où sortaient les plaintes éternelles des âmes meurtries et damnées.
+\end_layout
+
+\begin_layout Standard
+Il lui sembla que le dragon s
+\begin_inset Quotes ers
+\end_inset
+
+interposait entre lui et ce fléau, dans un ultime espoir de sauver sa maigre
+ existence.
+ Elvan croisa en un éclair d
+\begin_inset Quotes ers
+\end_inset
+
+éternité le regard du dragon, il y vit une larme et le vide se déroba à
+ nouveau.
+ Se fut une chute à travers des univers de détresse, et à nouveau le noir.
+\end_layout
+
+\begin_layout Standard
+Le contact froid du sol, le ramena à la réalité.
+ Son corps tremblait, malgré lui.
+ Il n
+\begin_inset Quotes ers
+\end_inset
+
+avait pas de douleur, juste une conscience aigüe des choses et des êtres
+ qui l
+\begin_inset Quotes ers
+\end_inset
+
+entouraient.
+ Une conscience assourdissante qu
+\begin_inset Quotes ers
+\end_inset
+
+il ne pouvait maitriser, et qui lui donnait l
+\begin_inset Quotes ers
+\end_inset
+
+impression d
+\begin_inset Quotes ers
+\end_inset
+
+être un immense puits ouvert, dans lequel se déversaient toutes les vies
+ humaines.
+\end_layout
+
+\begin_layout Standard
+Elvan resta prostré pendant plus d
+\begin_inset Quotes ers
+\end_inset
+
+une heure sur le sol de sa chambre pleurant doucement.
+ Des larmes en réponse à celle du dragon qui l'avait ému au plus profond
+ de son âme.
+ Heureusement pour lui, personne n
+\begin_inset Quotes ers
+\end_inset
+
+entra dans la chambre pendant tout ce temps.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Heureusement\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Le jeune jidaï-atah
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+jidaï-atah : jeteur de sorts
+\end_layout
+
+\end_inset
+
+ se releva, les muscles et l'épaule gauche endoloris et s
+\begin_inset Quotes ers
+\end_inset
+
+affaira lentement pour préparer ses bagages.
+ Une fois son sac rempli, Elvan s
+\begin_inset Quotes ers
+\end_inset
+
+étala sur son lit, et s
+\begin_inset Quotes ers
+\end_inset
+
+endormit, épuisé.
+\end_layout
+
+\begin_layout Standard
+Il fut réveillé par une légère pression sur son épaule.
+ Celle-ci lui faisait encore un peu mal.
+ Leysseen était assis sur le bord de son lit et le regardait avec ce sérieux
+ apparent qu'il affichait en permanence.
+ Mais, Elvan avait appris à lire entre les lignes de son ami et à repérer
+ ces petites lueurs d'espièglerie ou de malice, là où les autres ne voyaient
+ que calme et froideur.
+\end_layout
+
+\begin_layout Standard
+- C'est l'heure, ils vont nous attendre.
+\end_layout
+
+\begin_layout Standard
+- Pardonne moi, je...
+ j'ai fait un mauvais rêve, mais ça va aller.
+\end_layout
+
+\begin_layout Standard
+- Tes affaires sont prêtes ? Je suis sûr que ta sœur est déjà dans les parvis...
+\end_layout
+
+\begin_layout Standard
+- Et qu'elle piétine d'impatience...
+\end_layout
+
+\begin_layout Standard
+- En nous maudissant d'être encore en retard !
+\end_layout
+
+\begin_layout Standard
+Les deux jeunes gens éclatèrent de rire en chœur.
+ Elvan se leva et pris son sac.
+ Lui et Leysseen partirent en petites foulées à travers les couloirs.
+ Ysaël les attendait effectivement dans la petite salle vide de tout meuble
+ hormis deux bancs en bois rangés le long du mur.
+ Elle se leva, bondit même, à leur approche.
+\end_layout
+
+\begin_layout Standard
+- Enfin !
+\end_layout
+
+\begin_layout Standard
+- Désolé.
+ Lui répondit Leysseen en lui déposant un léger baiser sur les lèvres, ce
+ qui eut pour effet immédiat de la calmer.
+ Elle lui sourit largement et l'embrassa.
+\end_layout
+
+\begin_layout Standard
+Elvan était toujours un peu gêné devant leurs effusions, même s'il devait
+ admettre qu'ils faisaient tout pour rester discrets devant lui.
+ Ils se connaissaient tous les trois depuis qu'ils étaient à la Tour.
+ Depuis toujours semblait-il à Elvan.
+ Ils étaient devenus comme les doigts de la main.
+ « Les trois mousquetaires » comme se plaisait à dire le grand maître ;
+ allusion qu'il ne comprit pas la première fois .
+ Elvan lui avait demandé un jour ce que signifiait cette expression.
+ Kalindahar était resté vague.
+\end_layout
+
+\begin_layout Standard
+- Une très vieille expression issue des ères de légendes, avait-il dit.
+\end_layout
+
+\begin_layout Standard
+Puis il avait ajouté :
+\end_layout
+
+\begin_layout Standard
+- Trois amis inséparables, unis comme par un serment inviolable...
+ Quelque chose comme ça !
+\end_layout
+
+\begin_layout Standard
+Elvan s'était contenté de cette réponse.
+ C'était vrai.
+ Dans les jeux collectifs, cette entente prenait toute sa dimension.
+ Elvan arrivait toujours avec un plan, une stratégie, une idée pour surprendre
+ leurs adversaires.
+ Mais c'est sa jumelle, avec sa fougue et son impétuosité qui emmenait les
+ deux garçons.
+ Elle était capable d'ajouter la dynamique qui manquait à ses idées.
+ Quant à Leysseen, c'était un improvisateur né doué d'un tacticien hors
+ pair.
+ Capable de lire les intentions de ses adversaires il pouvait anticiper
+ leurs réactions et prévoir l'instant où le plan initial avait enfin été
+ décrypté et où il fallait l'abandonner.
+ A cet instant, il insufflait une nouvelle énergie au trio et déclinait
+ les actions jusqu'à perdre ses adversaires.
+\end_layout
+
+\begin_layout Standard
+Autant Elvan était calme, autant Ysaël était impatiente.
+ Autant était-elle intuitive et vive, autant était-il réfléchi presque calculate
+ur.
+ Lui même se trouvait lent en comparaison.
+ Pourtant, il avait vu avant eux leur amour naitre.
+ Il l'avait vu s'épanouir et s'en était réjoui.
+ C'était il y a un an...
+\end_layout
+
+\begin_layout Standard
+Elvan fut tiré de ses pensées par l'entrée du frère Sevian, maître des cérémonie
+s.
+\end_layout
+
+\begin_layout Standard
+- Les renaissant sont-ils prêts ? Dit-il avec emphase et force voix.
+\end_layout
+
+\begin_layout Standard
+Tous trois articulèrent un oui timide.
+\end_layout
+
+\begin_layout Standard
+- Placez-vous en ligne devant moi.
+ Dévêtez-vous ! Rangez vos habits dans votre sac.
+\end_layout
+
+\begin_layout Standard
+Les jeunes gens obéirent.
+ La nudité, quoiqu'un peu troublante, ne leur était pas pénible.
+ Tous trois se connaissaient suffisamment.
+ Les plus jeunes enfants eux pourraient être surpris, ceux qui assistaient
+ à leur premier rituel de renaissance.
+ Une fois déshabillés, le maître des cérémonies se replaça devant eux et
+ ouvrit la porte du temple.
+\end_layout
+
+\begin_layout Standard
+- Qui vient ici ? Demanda au loin le Grand maître Kalindahar.
+\end_layout
+
+\begin_layout Standard
+- De jeunes novices désirant s'émanciper !
+\end_layout
+
+\begin_layout Standard
+- Qu'ils entrent à votre suite maître des cérémonies et se présentent à
+ l'assemblée d'une vois forte et assurée.
+\end_layout
+
+\begin_layout Standard
+Frère Sevian entra et tour à tour Leysseen, Ysaël et Elvan entrèrent en
+ prononçant haut et fort leur prénom respectif.
+ Comme pour toutes les cérémonies auxquelles avaient assistées Elvan, il
+ allait à sont tour suivre le maître, prononcer les mots appris, faire les
+ gestes répétés.
+ Ce rituel était le plus attendu et le plus redouté des rites qui jalonnaient
+ la vie des jeunes novices de la Tour.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Ça y est, on y est...
+\end_layout
+
+\begin_layout Standard
+Le maître des cérémonies les emmena jusqu'au centre du temple devant le
+ bassin sacré que l'on nommait « la source ».
+ C'était la première fois en 15 ans qu' Elvan s'approchait aussi près de
+ la source.
+ Pendant toutes ces années d'apprentissage, seuls les frères-parents franchissai
+ent la limite qui séparait le corps du chœur du temple, une mince ligne
+ de cuivre sertie dans le dallage.
+ Devant eux, juste avant le bassin, une étole rouge était posée à même le
+ sol.
+ Sur ce morceaux d'étoffe, encadré par deux frères-parents, reposaient trois
+ objets : une bougie allumée, une coupe remplie d'eau et une pierre polie.
+\end_layout
+
+\begin_layout Standard
+- Votre voyage sera difficile.
+ Mais au terme de celui-ci, vous renaitrez dans la douleur et la lumière.
+ Si vous le jugez utile, prenez un de ces objets et il vous sera donné.
+\end_layout
+
+\begin_layout Standard
+Les trois jeunes gens, firent passer leur sac devant eux et d'une voix déclarère
+nt :
+\end_layout
+
+\begin_layout Standard
+- Nos seuls biens sont ici et nous ne demandons rien d'autre !
+\end_layout
+
+\begin_layout Standard
+- Par ce choix vous avez renoncé à tout ce qui vous lie à votre ancienne
+ vie.
+ Vous laissez la chaleur d'un foyer, vous quittez la douceur d'une table,
+ vous abandonnez la sécurité d'un toit.
+ Vous prenez en main votre vie.
+\end_layout
+
+\begin_layout Standard
+Elvan, ne put réprimer un frisson en écoutant le Grand maître parler.
+ Il aperçut dans l'eau, quelque chose qui captiva toute son attention.
+ Le fond du bassin était un trou noir vers lequel un petit plateau à trois
+ marches descendait.
+ Sur la première marche, gisaient d'innombrables pièces d'argent et au milieu
+ un gros anneau de métal retenait une corde qui plongeait dans les abysses.
+ Les paroles du Grand maître revinrent peu à peu à la conscience du jeune
+ homme.
+\end_layout
+
+\begin_layout Standard
+- \SpecialChar \ldots{}
+ Cette eau sombre et opaque ressemble à l'avenir vers lequel vous vous
+ engagez.
+ Inconnu mais plein de promesses.
+\end_layout
+
+\begin_layout Standard
+En entendant ces mots, Elvan vit l'eau d'abord se troubler, puis s'assombrir
+ jusqu'à devenir opaque et semblable à une plaque de métal.
+ Il ressentit ce léger picotement qui lui était désormais familier.
+ 
+\shape italic
+Jidù-Penna, il a modifié la matière
+\shape default
+.
+ Il se risqua à jeter un œil vers son ami et vit la chair de poule sur ses
+ bras.
+ Ces constats au lieu de l'effrayer, le rassérénèrent.
+ La magie était son domaine et celle mise en œuvre à cet instant n'était
+ pas destinée à leur nuire.
+\end_layout
+
+\begin_layout Standard
+- \SpecialChar \ldots{}
+ Plongez tour à tour votre main et prenez ce que la source vous offre ;
+ Héritage de votre passé pour votre renouveau.
+\end_layout
+
+\begin_layout Standard
+Chacun d'eux, prit une poignée de pièces et la glissa dans leur sac.
+\end_layout
+
+\begin_layout Standard
+- \SpecialChar \ldots{}
+ Entrez maintenant dans la source, et suivez le lien.
+ Ce lien est le seul lien de retour, mais ne faiblissez jamais dans votre
+ volonté et avancez vers la lumière.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+La corde !
+\end_layout
+
+\begin_layout Standard
+Leysseen, Ysaël puis Elvan pénétrèrent dans le bassin.
+ Ils inspiraient par saccades rapides comme on le leur avait appris, puis
+ prirent une profonde inspiration et disparurent aux yeux des autres jeunes
+ fascinés.
+ L'eau n'avait pas bougée, elle n'avait pas eu une ride lorsque les corps
+ avaient plongés en son sein.
+ Lorsqu'elle redevint claire, les jeunes gens avaient disparus définitivement.
+\end_layout
+
+\begin_layout Standard
+- Une nouvelle page se termine.
+ De nouveaux livres vont écrire la vie de nos anciens novices.
+ Réjouissez-vous mes enfants de cette renaissance et accompagnez-les de
+ vos pensées...
+\end_layout
+
+\begin_layout Chapter
+Naissance
+\end_layout
+
+\begin_layout Quotation
+
+\size footnotesize
+~ Du don de soi ~
+\end_layout
+
+\begin_layout Quotation
+
+\size footnotesize
+Il sera accepté parmi vous.
+ Il sera considéré comme vous, par vous.
+ Naturellement, son esprit s
+\begin_inset Quotes ers
+\end_inset
+
+est accordé aux vôtres.
+ Spontanément il a fait le don de l
+\begin_inset Quotes ers
+\end_inset
+
+eau, pour vous...
+\end_layout
+
+\begin_layout Quote
+
+\size footnotesize
+Extrait du livre du Lid-gesah'Arch de Herckrt-N'Bafer
+\end_layout
+
+\begin_layout Quote
+ 
+\end_layout
+
+\begin_layout Standard
+Opaque, la vase remontait en volutes denses, obstruant une vue déjà troublée
+ par l
+\begin_inset Quotes ers
+\end_inset
+
+eau chargée de particules de roches érodées, raclées et charriées dans les
+ boyaux sombres du siphon.
+\end_layout
+
+\begin_layout Standard
+Elvan sentait toujours le contact souple et gluant de mousses vaseuses de
+ la corde-guide dans ses mains.
+ Ce fut d
+\begin_inset Quotes ers
+\end_inset
+
+abord un point blanc dans le tourbillon de bulles qui devint rapidement
+ soleil et sa clarté intense, puis l
+\begin_inset Quotes ers
+\end_inset
+
+air.
+ Il aspira bruyamment, dans un raclement douloureux, l
+\begin_inset Quotes ers
+\end_inset
+
+oxygène brûlant de l
+\begin_inset Quotes ers
+\end_inset
+
+atmosphère du désert, et jaillit dans une gerbe écumante au centre de l
+\begin_inset Quotes ers
+\end_inset
+
+oasis.
+ 
+\shape italic
+Douleur et lumière...
+\end_layout
+
+\begin_layout Standard
+Le jour était déjà bas sur l
+\begin_inset Quotes ers
+\end_inset
+
+horizon.
+ Elvan se hissa sur la berge et roula sur le dos, rejoint bientôt par Ysaël
+ et Leysseen.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Le grand œil ! ô Eù
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Eù: l'être suprême fruit du Dieu unique importé par les colons et la croyance
+ en un créateur chez les annouvéens, l'addition de toutes les âmes arrivées
+ à l'état de conscience ultime.
+\end_layout
+
+\end_inset
+
+ quelle merveille, quel spectacle !
+\end_layout
+
+\begin_layout Standard
+Ses yeux lui faisaient mal, mais il ne pouvait pas se résigner à les fermer,
+ se priver du spectacle neuf de son premier couché de soleil.
+ Plaisir prolongé jusqu
+\begin_inset Quotes ers
+\end_inset
+
+à la douleur, qui nous fait hésiter, entre émotion et brulure, sur la nature
+ des larmes.
+\end_layout
+
+\begin_layout Standard
+Ils ne virent pas, tout d
+\begin_inset Quotes ers
+\end_inset
+
+abord, les femmes qui les observaient.
+ Leysseen, le premier, se redressa, et posa doucement sa main sur l
+\begin_inset Quotes ers
+\end_inset
+
+épaule d
+\begin_inset Quotes ers
+\end_inset
+
+Elvan, comme on veut réveiller un enfant, conscient que l
+\begin_inset Quotes ers
+\end_inset
+
+on est de l
+\begin_inset Quotes ers
+\end_inset
+
+intrusion que l
+\begin_inset Quotes ers
+\end_inset
+
+on s
+\begin_inset Quotes ers
+\end_inset
+
+apprête à faire, au milieu d
+\begin_inset Quotes ers
+\end_inset
+
+un rêve ou dans un de ces moments particuliers où l
+\begin_inset Quotes ers
+\end_inset
+
+être tout entier a quitté les lieux et place du corps, pour errer dans les
+ dédales de ses pensées.
+\end_layout
+
+\begin_layout Standard
+Devant les petits rires gênés des jeunes femmes, ils prirent conscience
+ de leur nudité.
+ Dans une hâte maladroite et rougissante, ils sortirent leur vêtements trempés
+ du sac et s'habillèrent.
+ Ils n'eurent pas le temps de se préparer à ce qui suivait.
+\end_layout
+
+\begin_layout Subparagraph*
+\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Lorsqu
+\begin_inset Quotes ers
+\end_inset
+
+ils pénétrèrent dans le camp nomade, c
+\begin_inset Quotes ers
+\end_inset
+
+est une multitude de signaux visuels, auditifs et olfactifs qui les assaillit.
+\end_layout
+
+\begin_layout Standard
+Tant de gens réunis, quand jusqu
+\begin_inset Quotes ers
+\end_inset
+
+ici leur univers s
+\begin_inset Quotes ers
+\end_inset
+
+était résumé à la cohabitation sage et ordonnée d
+\begin_inset Quotes ers
+\end_inset
+
+une vingtaine de personnes.
+ Et là, cent, peut-être deux cents visages brunis par le soleil, creusés
+ par le sable et le vent, des hommes mais aussi des femmes qui vivaient
+ ensembles.
+\end_layout
+
+\begin_layout Standard
+Il reporta son attention à la découverte du camp.
+ Plusieurs foyers crépitaient.
+ Des marmites, posées dessus, s
+\begin_inset Quotes ers
+\end_inset
+
+élevaient des effluves épicés, des parfums de bouillons nuancés, qui vous
+ inondaient la bouche et faisaient briller les lèvres d
+\begin_inset Quotes ers
+\end_inset
+
+envie.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Des Sethiens, des caravaniers du grand désert de Chanseth.
+ Les voilà donc...
+
+\shape default
+ La pensée d
+\begin_inset Quotes ers
+\end_inset
+
+Elvan fut coupée par l
+\begin_inset Quotes ers
+\end_inset
+
+arrivée face à lui d
+\begin_inset Quotes ers
+\end_inset
+
+un homme mûr, le silence s'était abattu sur le camp, il reconnut en lui
+ un T
+\begin_inset Quotes ers
+\end_inset
+
+An, guide de la caravane.
+\end_layout
+
+\begin_layout Standard
+- Que les sables vous protègent ! Sois le bienvenue Jidaï-atah, toi et tes
+ amis.
+ Demandez-vous le gite pour la nuit ?
+\end_layout
+
+\begin_layout Standard
+- Les sables nous protègent tous ! Mes amis et moi serions honorés si vous
+ pouviez nous laisser une place près de vos tentes et quelques restes de
+ votre repas.
+\end_layout
+
+\begin_layout Standard
+Les formules étaient inscrites dans la nuit des temps.
+ Elvan récita sans hésitation des phrases apprises et répétées depuis des
+ années, dans les sombres galeries de la Tour.
+ Il y eut un moment de silence où les trois jeunes voyageurs, appréhendèrent
+ le gouffre qui les séparait de la vie à la surface.
+ Qu'il leur faudrait être attentif pour ne commettre aucun impair ! Puis
+ il y eut un sourire, des mains tendues.
+ Le retour du brouhaha joyeux, leur fit prendre conscience du silence qui
+ régnait quelques secondes plutôt sur le camp.
+\end_layout
+
+\begin_layout Standard
+T'An Acharb les accueillit dans sa tente.
+ Soutenue par deux poteaux d
+\begin_inset Quotes ers
+\end_inset
+
+environ trois mètres, une grande toile épaisse et brune retombait loin sur
+ les côtés, couvrant ainsi un espace d
+\begin_inset Quotes ers
+\end_inset
+
+à peu près six mètres sur six.
+ Au centre, étaient disposés des coussins de cuir ornés de broderies géométrique
+s.
+ Ils encadraient un immense plateau de métal jaune, finement ciselé, sur
+ lequel reposaient des assiettes et des plats de terre, dans lesquels fumait
+ un ragout odorant.
+ Le tout gisait sur un large et somptueux tapis aux teintes fauves et aux
+ motifs précis et réguliers, assemblés en un dessin chargé.
+\end_layout
+
+\begin_layout Standard
+L
+\begin_inset Quotes ers
+\end_inset
+
+atmosphère de la tente était chaude, épicée, et les bâtons d
+\begin_inset Quotes ers
+\end_inset
+
+encens s
+\begin_inset Quotes ers
+\end_inset
+
+ajoutaient aux parfums lourds du repas.
+ Alors que la nuit était déjà avancée, la boisson, fortement alcoolisée
+ et sucrée avait contribué à rendre la tente moite et les esprits brumeux.
+ Ysaël s'enhardit et interpela le T
+\begin_inset Quotes ers
+\end_inset
+
+An.
+\end_layout
+
+\begin_layout Standard
+- Vous avez appelé Elvan, Jidaï-atah, comment saviez-vous qu
+\begin_inset Quotes ers
+\end_inset
+
+il est exorciste ? C'est le Grand maître qui vous a prévenu ? La question
+ d
+\begin_inset Quotes ers
+\end_inset
+
+ Ysaël émergeait d
+\begin_inset Quotes ers
+\end_inset
+
+un silence feutré, et Elvan n
+\begin_inset Quotes ers
+\end_inset
+
+avait rien vu venir.
+ Leysseen faillit avaler de travers.
+ Il se redressa lentement du tas de coussins dans lequel il s
+\begin_inset Quotes ers
+\end_inset
+
+était vautré peu à peu, les yeux rivés sur le caravanier.
+\end_layout
+
+\begin_layout Standard
+- Dans ses yeux ; il a le regard de ceux qui voient au-delà des choses.
+ Je ne savais pas qu
+\begin_inset Quotes ers
+\end_inset
+
+il était exorciste\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+- En vérité, je ne suis pas membre du clergé.
+ Elvan portait l
+\begin_inset Quotes ers
+\end_inset
+
+opale noire, signe de sa foi, mais la couleur indiquait aussi qu
+\begin_inset Quotes ers
+\end_inset
+
+il n
+\begin_inset Quotes ers
+\end_inset
+
+était que croyant, en aucun cas membre du clergé.
+ Mais les mots d
+\begin_inset Quotes ers
+\end_inset
+
+Acharb l
+\begin_inset Quotes ers
+\end_inset
+
+avaient troublé.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Se pouvait-il que le T
+\begin_inset Quotes ers
+\end_inset
+
+An lui-même soit un «canal », comme moi, un Jidaï-atah.
+ Cela n
+\begin_inset Quotes ers
+\end_inset
+
+aurait rien de vraiment surprenant en somme\SpecialChar \ldots{}
+ 
+\end_layout
+
+\begin_layout Standard
+Leysseen relança la discussion.
+\end_layout
+
+\begin_layout Standard
+- Vous n
+\begin_inset Quotes ers
+\end_inset
+
+avez pas de Jidaï-atah, pour protéger votre caravane ?
+\end_layout
+
+\begin_layout Standard
+- De quoi voudriez-vous que nous nous protégions ? Le désert est notre seul
+ danger.
+ C
+\begin_inset Quotes ers
+\end_inset
+
+est aussi notre meilleure protection.
+ 
+\shape italic
+L
+\begin_inset Quotes ers
+\end_inset
+
+homme répond trop vite
+\shape default
+, se dit Elvan.
+ 
+\shape italic
+Son calme n'est qu
+\begin_inset Quotes ers
+\end_inset
+
+apparent.
+ Il est aux aguets.
+ Maitrise de la voix et du mouvement, mais les yeux avaient d'imperceptibles
+ mouvements
+\shape default
+.
+ Il fouillait dans son esprit des réponses rassurantes.
+ Elvan arrivait aux même conclusions que sa sœur quelques secondes après.
+ 
+\shape italic
+Il ment.
+ Pourquoi ?
+\end_layout
+
+\begin_layout Standard
+- Pourrons-nous bénéficier de votre protection jusqu
+\begin_inset Quotes ers
+\end_inset
+
+à T
+\begin_inset Quotes ers
+\end_inset
+
+An-T
+\begin_inset Quotes ers
+\end_inset
+
+Aï ? Ysaël se retourna vers son frère, surprise de sa question.
+ Ils n
+\begin_inset Quotes ers
+\end_inset
+
+en avaient pas parlé tous les trois, et là, comme s'il était le chef auto-procla
+mé, Elvan prenait une décision pour eux.
+ Elle se rembrunit et attendit la réponse d
+\begin_inset Quotes ers
+\end_inset
+
+Acharb.
+\end_layout
+
+\begin_layout Standard
+- Il vous faudra vivre selon nos usages, travailler au bon fonctionnement
+ du camp, et à la bonne marche de la caravane.
+\end_layout
+
+\begin_layout Standard
+C
+\begin_inset Quotes ers
+\end_inset
+
+était entendu.
+ Elvan sourit.
+ T
+\begin_inset Quotes ers
+\end_inset
+
+An Acharb se leva et tous firent de même.
+ Il appela un jeune homme qui buvait et plaisantait à l
+\begin_inset Quotes ers
+\end_inset
+
+extérieur, qui répondit au nom d
+\begin_inset Quotes ers
+\end_inset
+
+Askenuh.
+ Il sera votre guide.
+ Puis il ajouta à Elvan dans un demi-sourire :
+\end_layout
+
+\begin_layout Standard
+- Je ne vous ai pas dit que nous allions à T
+\begin_inset Quotes ers
+\end_inset
+
+An-T
+\begin_inset Quotes ers
+\end_inset
+
+Aï, Jidaï-atah\SpecialChar \ldots{}
+ Son regard alla lentement se planter dans celui d'Ysaël,
+ puis dans un sourire il fit demi-tour.
+ Elvan essaya de répondre mais les mots restèrent figés dans sa bouche.
+ Il le regarda rentrer dans sa tente et surpris le regard incrédule de ses
+ amis.
+ Elvan leur adressa un haussement d
+\begin_inset Quotes ers
+\end_inset
+
+épaule, et tout le monde alla dormir.
+\end_layout
+
+\begin_layout Subparagraph*
+\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Cela faisait dix-sept jours qu
+\begin_inset Quotes ers
+\end_inset
+
+Elvan et ses amis répétaient les mêmes gestes, encore maladroits, au seuil
+ de ce moment de l
+\begin_inset Quotes ers
+\end_inset
+
+apprentissage, où le mouvement n
+\begin_inset Quotes ers
+\end_inset
+
+est pas encore réflexe, mais déjà mécanique, où la pensée reste encore dirigée
+ essentiellement vers l
+\begin_inset Quotes ers
+\end_inset
+
+acte.
+ Les yeux d'Elvan avaient des difficultés à s'habituer à la lumière intense
+ du jour.
+ Comme ses amis il portait un ample foulard sur l'ensemble de la tête et
+ couvrant une bonne partie du visage.
+ Dans les premiers temps il avait refusé de le porter, mais à force de douleurs
+ le soir, il avait fini par accepter.
+ Il lui recouvrait également le devant de ses yeux d'une fine couche de
+ son turban pour les protéger.
+ Même avec ça, le soir venait et avec, la cuisante douleur au fond du crâne.
+ Il en avait parlé à Askenuh qui n'avait rien dit d'autre que :
+\end_layout
+
+\begin_layout Standard
+- ça peut durer plusieurs semaines...
+\end_layout
+
+\begin_layout Standard
+Le soir même, une femme, qu'Elvan n'avait pas encore vu depuis qu'ils étaient
+ ici, entra dans leur tente.
+\end_layout
+
+\begin_layout Standard
+- Askenuh m'a dit que vous aviez encore mal aux yeux Jidaï-atah.
+ Permettez ?...
+ Elle montra un petit bol rempli d'une sorte de pâte huileuse.
+ Elvan lui fit signe d'approcher.
+ Elle s'agenouilla auprès de lui sans se soucier de ses deux amis et lui
+ appliqua doucement l'onguent sur les paupières, et le tour de l
+\begin_inset Quotes ers
+\end_inset
+
+œil.
+ La pommade avait une odeur entêtante qui augmenta rapidement son mal de
+ tête.
+\end_layout
+
+\begin_layout Standard
+- N'ouvrez pas les yeux avant demain, la pommade pourrait brûler vos yeux.
+ Elle se releva et sortit.
+ Après quelques instants, Ysaël brisa le silence.
+\end_layout
+
+\begin_layout Standard
+- Pourquoi ne nous en as-tu pas parler ? Tu aurais dû accepter le foulard
+ dès le début...
+ Elle était agressive comme chaque fois qu'elle se sentait obligé d'être
+ une mère pour lui.
+ Elvan soupira, Leysseen intervint.
+\end_layout
+
+\begin_layout Standard
+- Nous n'avons jamais évoqué notre arrivée à T
+\begin_inset Quotes ers
+\end_inset
+
+an-T'Aï.
+ Combien avez-vous récupéré lors de la cérémonie ?
+\end_layout
+
+\begin_layout Standard
+- Combien ? Quoi ?...
+ Ysaël était un peu dérouté par la changement brutal de conversation.
+\end_layout
+
+\begin_layout Standard
+- Combien d'argent avez-vous ? Combien avons-nous ? Ils n'avaient que très
+ peu parlé de leur future arrivée dans la capitale Sethienne et n'avaient
+ jamais évoqué leur renaissance.
+ Après un rapide décompte, ils disposaient d'une petite fortune de trente-et-une
+ pièces d'argent.
+ Ysaël était fière d'en être responsable pratiquement pour moitié.
+ Elle ne put s'empêcher de railler son frère.
+\end_layout
+
+\begin_layout Standard
+- Et bien, si on devait compter sur toi pour nous nourrir, on n'irait pas
+ bien loin.
+\end_layout
+
+\begin_layout Standard
+- Si on devait compter sur toi et ta diplomatie légendaire on pourrirait
+ encore au cœur du désert en attendant qu'une autre caravane passe.
+\end_layout
+
+\begin_layout Standard
+Leysseen se gardait bien d'intervenir dans ses querelles qu'il savait sans
+ lendemain.
+ Il rangea sa part et s'étendit sur sa couche.
+ Il étira sa jeune musculature soumise à un rythme intensif depuis quinze
+ jours.
+ Quelle organisation ! Il n'en revenait toujours pas.
+ Tout était réglé au moindre détail.
+ Du lever des caravaniers à leur coucher avec le soleil, la vie de la communauté
+ suivait des rites immuables et nécessaires.
+ Il avait naturellement compris que ces rites et ces procédures étaient
+ le savoir ancestral des caravaniers qui se transmettait de génération en
+ génération.
+ Il comprenait intuitivement qu'ils participaient à la sécurité et à la
+ bonne marche de l'ensemble.
+ Et à la tête de tout ce petit monde le T
+\begin_inset Quotes ers
+\end_inset
+
+An.
+ Tout repose sur lui.
+ Tant de responsabilités regroupées sur un seul être.
+ 
+\shape italic
+Comment fait-il ?
+\shape default
+ La question se tinta d'amertume quand Leysseen comprit qu'elle concernait
+ autant la solitude que la capacité qu'exigeait cette responsabilité.
+ 
+\shape italic
+Seul.
+\end_layout
+
+\begin_layout Standard
+Il devait être cinq heures du matin, et si le ciel rosissait à l
+\begin_inset Quotes ers
+\end_inset
+
+horizon, le soleil n
+\begin_inset Quotes ers
+\end_inset
+
+était pas encore levé.
+ Derrière eux K
+\begin_inset Quotes ers
+\end_inset
+
+Ali-Krill renvoyait les derniers rayons de sa pâle lumière.
+ Dans une heure, alors que le train s
+\begin_inset Quotes ers
+\end_inset
+
+étendra en une longue colonne de plus de trois cents mètres, Krill, la géante
+ rouge, dardera ses premiers rayons obliques sur le profil sinueux de la
+ caravane, projetant son ombre mouvante et immense sur les dunes qui prendront
+ leur couleur d
+\begin_inset Quotes ers
+\end_inset
+
+ambre.
+\end_layout
+
+\begin_layout Standard
+Askenuh avait été un bon guide pour les trois jeunes gens, et eux de bons
+ élèves.
+ Le processus était immuable.
+ Le camp s
+\begin_inset Quotes ers
+\end_inset
+
+éveillait à quatre heures et demie du matin, et l
+\begin_inset Quotes ers
+\end_inset
+
+on avalait en hâte une tasse de bakswé, alcool de palmier, avec une galette
+ de céréale, fortement sucrée, très roborative.
+ Ysaël n'aimait toujours pas cette boisson.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Je vais encore mettre une demi-heure avant de retrouver tous mes moyens...
+\end_layout
+
+\begin_layout Standard
+Puis l
+\begin_inset Quotes ers
+\end_inset
+
+on pliait le campement.
+ La vitesse à laquelle disparaissait ce lieu où s
+\begin_inset Quotes ers
+\end_inset
+
+élevaient auparavant une cinquantaine de tentes, et où vivaient plus de
+ deux cents personnes, ne lassait pas de surprendre Elvan.
+ Il leur fallait moins d
+\begin_inset Quotes ers
+\end_inset
+
+une demi-heure pour tout ranger.
+ L
+\begin_inset Quotes ers
+\end_inset
+
+organisation était impeccable, hommes et femmes fourmillaient en tous sens,
+ dans un tumulte diffus, et d
+\begin_inset Quotes ers
+\end_inset
+
+un coup, presque par enchantement, alors que seuls l
+\begin_inset Quotes ers
+\end_inset
+
+organisation, la volonté et une habitude ancestrale en étaient responsables,
+ la caravane était prête au départ.
+ Le serpent s
+\begin_inset Quotes ers
+\end_inset
+
+élançait alors dans les étendues sablonneuses du « Grand blanc ».
+\end_layout
+
+\begin_layout Standard
+La tête seule savait où aller.
+ Le T
+\begin_inset Quotes ers
+\end_inset
+
+An était le seul à connaître les arcanes du désert.
+ Détenteur du savoir oral il connaissait les emplacements de tous les points
+ d
+\begin_inset Quotes ers
+\end_inset
+
+eau, et lui seul pouvait les ramener au Thégérit, lieu immémorial de vie
+ et de naissance du clan.
+ Elvan savait que la capitale se trouvait au nord du royaume , au bord de
+ la mer intérieure, et c
+\begin_inset Quotes els
+\end_inset
+
+était au nord que la caravane allait.
+ Mais d
+\begin_inset Quotes ers
+\end_inset
+
+infimes inclinaisons imprimées par le chef caravanier, perturbaient l
+\begin_inset Quotes ers
+\end_inset
+
+orientation générale du jeune homme.
+ La seule chose qu
+\begin_inset Quotes ers
+\end_inset
+
+il put en dire, était que l
+\begin_inset Quotes ers
+\end_inset
+
+on dormait toujours bien, quel que soit l
+\begin_inset Quotes ers
+\end_inset
+
+endroit choisit, semble-t-il au hasard, par le T
+\begin_inset Quotes ers
+\end_inset
+
+An.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+A croire que l
+\begin_inset Quotes ers
+\end_inset
+
+on ne pouvait que bien dormir dans ce désert !
+\shape default
+ Elvan sourit à cette pensée.
+ Au loin, à gauche de leur route s'élevaient des falaises rouges.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Tonnerre.
+ Milles-pattes tonnerre.
+ 
+\end_layout
+
+\begin_layout Standard
+Leysseen était d'avant garde ce matin, il avançait en compagnie d'un homme
+ plus âgé que lui du double.
+ Pourtant les brusques accélérations et les pas arythmiques du Sethien donnaient
+ beaucoup de mal au jeune homme qui s'accrochaient pour suivre son ainé.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Plus dormir, plus possible, faire taire...
+\end_layout
+
+\begin_layout Standard
+Ysaël se trouvait à près d'un demi kilomètre derrière la caravane.
+ Elle aussi était en compagnie d'un Sethien.
+ 
+\shape italic
+Beau comme un dieu ! Si Leysseen savait avec qui je suis...
+
+\shape default
+ Elle étouffa un rire à cette pensée et reçut pour toute réponse un regard
+ glacial du jeune homme qui la formait à la garde.
+ Il se rapprocha en lui faisant signe de s'arrêter et de s'accroupir.
+\end_layout
+
+\begin_layout Standard
+- Tu ne dois pas t'égarer.
+\end_layout
+
+\begin_layout Standard
+- Je sais...
+\end_layout
+
+\begin_layout Standard
+- Non, tu ne sais rien ! Ton esprit doit être entièrement tourné vers ce
+ que tu fais.
+\end_layout
+
+\begin_layout Standard
+Le ton n'autorisait pourtant pas de commentaire.
+\end_layout
+
+\begin_layout Standard
+- Mais...
+\end_layout
+
+\begin_layout Standard
+- Écoute ! Regarde ! Et vide ton esprit.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Faire taire, faire taire, faire taire\SpecialChar \ldots{}
+ 
+\end_layout
+
+\begin_layout Standard
+Ysaël ferma les yeux et décida d'obéir.
+ Se-shan lui posa une main apaisante sur l'épaule.
+ Il s'approcha et se mit à murmurer à son oreille.
+\end_layout
+
+\begin_layout Standard
+- Le désert écoute.
+ Le désert voit.
+ Le désert dort le jour.
+ Ne réveille jamais le désert.
+\end_layout
+
+\begin_layout Standard
+Ysaël n'arrivait pas à écouter les préceptes maintes fois répétés.
+ Elle sentait le souffle tiède de Se-shan sur son cou, sa main sur son épaule.
+ Elle essaya de penser à Leysseen mais elle pouvait sentir la chaleur du
+ corps de l'homme accroupi derrière elle.
+ Alors elle entendit son cœur.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Faire taire, faire taire, faire taire
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+
+\shape italic
+...
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Elvan ferma les yeux pour savourer un instant la plénitude de la nature
+ qui les entourait.
+ En un instant son âme entière s'emplit d'un tumulte assourdissant.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Faire taire, faire taire faire taire\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Il ouvrit les yeux et aspira bruyamment comme s'il émergeait d'un lac.
+ Ses yeux se tournèrent vers le sud.
+\end_layout
+
+\begin_layout Standard
+- Ysaël.
+ Murmura-t-il.
+\end_layout
+
+\begin_layout Standard
+Le T'An non loin de lui se retourna.
+ Le corps tout entier d'Elvan était tendu comme un arc.
+ T'An Acharb fit signe à la caravane de stopper.
+ Elvan partit en courant vers l'arrière.
+ Au loin des éclairs blancs courraient sur les dunes et se rapprochaient
+ d'eux.
+\end_layout
+
+\begin_layout Standard
+La voix de Se-shan se tut, sa main se crispa sur l'épaule d'Ysaël.
+ Elle prit conscience qu'elle entendait réellement son cœur battre...
+ 
+\shape italic
+à moins que..
+\shape default
+.
+\end_layout
+
+\begin_layout Standard
+- Cours !
+\end_layout
+
+\begin_layout Standard
+Se-shan s'était levé et la tirait par l'épaule.
+ Derrière eux le désert se souleva comme une mer déchainée.
+ Elle tituba, se releva et se mit à courir comme un automate, poussée par
+ la seule peur.
+ Se-shan emmenait Ysaël vers les falaises.
+ Ils étaient à mis parcours quand Elvan arriva à l'arrière du cortège qui
+ déjà hurlait.
+ Les hommes et les femmes courraient et s'éloignaient en groupes de la caravane.
+ Quand la vague de sable sembla sur le point de retomber, elle explosa pour
+ laisser jaillir un serpent gigantesque orné d'une corole d'écaille qu'il
+ déploya en la faisant vibrer.
+ A peine la gueule béante avait-elle émergée des sables en furie que les
+ groupes dispersés se couchèrent d'une seule voix et le silence fut brisé
+ par un rugissement titanesque dont l'onde vint percuter Elvan qui vacilla
+ sous l'impact.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Par Eù ! Quel animal\SpecialChar \ldots{}
+ Que de colère
+\shape default
+.
+\end_layout
+
+\begin_layout Standard
+Un Sethien arriva près d'Elvan et voulut le prendre par l'épaule.
+ Elvan se dégagea brusquement et tendit les mains devant lui face vers le
+ sol.
+ Il ouvrit grand les yeux et les planta dans ceux du\SpecialChar \ldots{}
+ 
+\shape italic
+ver ?
+\shape default
+.
+ Autour de lui, l
+\begin_inset Quotes ers
+\end_inset
+
+air se mit à vrombir et le ciel s
+\begin_inset Quotes ers
+\end_inset
+
+obscurcit.
+ Le Sethien fit un pas en arrière, tituba et tomba en arrière.
+ Il lui semblait que le sable allait tout entier entrer dans le corps du
+ jeune homme.
+ Une onde de choc irrésistible semblable à celle provoquée par le cri du
+ serpent plaqua l
+\begin_inset Quotes ers
+\end_inset
+
+homme au sol qui crut un instant qu
+\begin_inset Quotes ers
+\end_inset
+
+il ne respirerait plus jamais.
+ Un silence de plomb s
+\begin_inset Quotes ers
+\end_inset
+
+abattit sur la scène dantesque.
+ Le ver s
+\begin_inset Quotes ers
+\end_inset
+
+était arrêté net et semblait lui aussi figé par ce silence absolu.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Se taire, plus de tonnerre, silence\SpecialChar \ldots{}
+ enfin dormir de nouveau.
+\end_layout
+
+\begin_layout Standard
+La scène resta un instant d'éternité figée.
+ Elvan avait le regard noyé dans celui du...
+ Dragon.
+ Puis, le ver sembla s
+\begin_inset Quotes ers
+\end_inset
+
+effondrer sur lui même quand il s
+\begin_inset Quotes ers
+\end_inset
+
+enfonça dans le sable.
+ Le Sethien récita à mi-voix :
+\end_layout
+
+\begin_layout Standard
+- Le désert voit et écoute.
+ T
+\begin_inset Quotes ers
+\end_inset
+
+Anath-Draco est son incarnation...
+\end_layout
+
+\begin_layout Standard
+Loin comme dans un rêve, Elvan entendit le murmure et sa conscience relâcha
+ trop vite sa tension.
+ L
+\begin_inset Quotes ers
+\end_inset
+
+air vibra à nouveau et dans un souffle le jeune Jidaï fut secoué par un
+ spasme violent qui l
+\begin_inset Quotes ers
+\end_inset
+
+arracha du sol et le projeta violemment quelques mètres plus loin.
+ Le Sethien prit alors conscience du silence absolu qui les entouraient
+ quelques instant plus tôt.
+ Le désert vibrait à nouveau de calme et de sérénité.
+ Ysaël tomba à genoux, les jambes coupées.
+ Plus loin, Elvan gisait sur le sable fin.
+ Une tache rouge imprégnait déjà le blanc de la dune.
+\end_layout
+
+\begin_layout Chapter
+Autres lieux, autres intérêts
+\end_layout
+
+\begin_layout Quotation
+
+\size footnotesize
+~ De l'ignorance ~
+\end_layout
+
+\begin_layout Quotation
+
+\size footnotesize
+Et c
+\begin_inset Quotes ers
+\end_inset
+
+est ainsi que commença ce qui n
+\begin_inset Quotes ers
+\end_inset
+
+avait pas encore tout à fait commencé et qui n
+\begin_inset Quotes ers
+\end_inset
+
+était pas près de se terminer.
+ Beaucoup de gens, en de nombreux points du globe partaient dans des directions
+ en croyant savoir où ils allaient, ce en quoi ils se trompaient.
+ C
+\begin_inset Quotes ers
+\end_inset
+
+était aussi bien.
+ L
+\begin_inset Quotes ers
+\end_inset
+
+avenir était trop effrayant pour être contemplé.
+\end_layout
+
+\begin_layout Quote
+
+\size footnotesize
+Extrait du livre de Tous les dangers de Lac-N
+\begin_inset Quotes ers
+\end_inset
+
+Cy 
+\end_layout
+
+\begin_layout Quote
+ 
+\end_layout
+
+\begin_layout Standard
+Darsh, quelque part entre glace et roc.
+ La silhouette massive du Saar Kineen se découpait sur la ligne de crête.
+ Dans ce ciel d
+\begin_inset Quotes ers
+\end_inset
+
+un bleu intense, que seules les régions septentrionales connaissent, où
+ s
+\begin_inset Quotes ers
+\end_inset
+
+étiolent de hauts cirrus tels des flammèches filandreuses et cotonnées,
+ la forteresse du baron Da-Kineen apparaissait grise et comme taillée dans
+ la montagne elle-même.
+\end_layout
+
+\begin_layout Standard
+La journée était bien avancée, mais on était dans cette saison où le jour
+ dure deux fois plus que la nuit.
+ Une nuit marquée par la levée d
+\begin_inset Quotes ers
+\end_inset
+
+un vent sec et froid.
+ C
+\begin_inset Quotes ers
+\end_inset
+
+était l
+\begin_inset Quotes ers
+\end_inset
+
+heure où Younaï prenait son tour de garde à la lourde porte de la forteresse.
+ Même emmitouflée, comme il l
+\begin_inset Quotes ers
+\end_inset
+
+était dans une chaude et large cape de fourrure, le jeune soldat savait
+ que la nuit serait longue et pénible, particulièrement quand le vent entamerait
+ sa danse glaciale.
+ Younaï était pourtant habitué aux durs climats de son pays, mais il préférait
+ endurer le froid dans une colonne en campagne contre l
+\begin_inset Quotes ers
+\end_inset
+
+ennemi, que tapis prêt d
+\begin_inset Quotes ers
+\end_inset
+
+un braséro fébrile au cœur des marches du royaume.
+ Même si ces marches appartenaient au plus prestigieux chef de guerre qu
+\begin_inset Quotes ers
+\end_inset
+
+avait connu le royaume Darshien.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Qui oserait sortir à une heure pareille ? Qui oserait nous attaquer ? 
+\end_layout
+
+\begin_layout Standard
+Les pensées du jeune homme erraient, sans but précis, sur le fil du temps
+ qui s
+\begin_inset Quotes ers
+\end_inset
+
+écoule.
+ L
+\begin_inset Quotes ers
+\end_inset
+
+imagination et les rêves de gloire, voilà bien tout ce qui pouvait permettre
+ de s
+\begin_inset Quotes ers
+\end_inset
+
+évader un instant d
+\begin_inset Quotes ers
+\end_inset
+
+une vie morne et répétitive de rondier.
+\end_layout
+
+\begin_layout Standard
+- Ouvre-moi.
+\end_layout
+
+\begin_layout Standard
+Le garde sursauta, surpris dans ses rêveries.
+ Il ne l
+\begin_inset Quotes ers
+\end_inset
+
+avait pas entendue arriver.
+ La cavalière tendait son doigt pour désigner au soldat, encore saisi, l
+\begin_inset Quotes ers
+\end_inset
+
+énorme porte de la citadelle, qui donnait sur l
+\begin_inset Quotes ers
+\end_inset
+
+extérieur.
+\end_layout
+
+\begin_layout Standard
+- Tout de suite maîtresse, mais il est tard et le vent\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+- Fais ce que tu dois faire ! Younaï se mordilla nerveusement les lèvres
+ et se hâta de débloquer le battant de la porte.
+ La cavalière se retourna sur sa selle et aperçu en haut du donjon la silhouette
+ floue du baron qui devait la regarder depuis la fenêtre de son bureau.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Je l
+\begin_inset Quotes ers
+\end_inset
+
+accomplirai ta mission, mais tu ne me reverras plus.
+\end_layout
+
+\begin_layout Standard
+Elle caressa l
+\begin_inset Quotes ers
+\end_inset
+
+encolure de sa monture et lui fit signe d
+\begin_inset Quotes ers
+\end_inset
+
+avancer vers le froid, le vent et bientôt la nuit.
+ Le faucheur renâcla mais s'engagea sur le sentier.
+ 
+\shape italic
+Avec un peu de chance nous serons à l
+\begin_inset Quotes ers
+\end_inset
+
+Ashrina
+\shape default
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Ashrina: chef lieu politique d'une région de Darsh
+\end_layout
+
+\end_inset
+
+
+\shape italic
+ au petit matin.
+\end_layout
+
+\begin_layout Subparagraph*
+\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Le disciple entra précautionneusement dans le cercle des pierres.
+ Il passa entre les deux monolithes australs et se jeta les deux genoux
+ à terre, les mains posées dessus et la tête baissée en signe de soumission
+ complète.
+ L
+\begin_inset Quotes ers
+\end_inset
+
+air était frais, une légère brise soufflait amenant les senteurs du grand
+ erg et de la nuit.
+ Mais, autour du sanctuaire il n
+\begin_inset Quotes ers
+\end_inset
+
+y avait pas un bruit.
+ De l
+\begin_inset Quotes ers
+\end_inset
+
+extérieur du cercle on n
+\begin_inset Quotes ers
+\end_inset
+
+entendait même pas ce que le jeune identifiait maintenant comme une sourde
+ lamentation.
+ Il attendait le bon vouloir du Jidaï-atah.
+\end_layout
+
+\begin_layout Standard
+- Quelle nouvelle m
+\begin_inset Quotes ers
+\end_inset
+
+apportes-tu ?
+\end_layout
+
+\begin_layout Standard
+- Ils sont arrivés maître.
+ Ils attendent l
+\begin_inset Quotes ers
+\end_inset
+
+élu maintenant, selon vos ordres.
+\end_layout
+
+\begin_layout Standard
+- Bien.
+ Il ne va plus tarder, et vous le guiderez jusqu
+\begin_inset Quotes ers
+\end_inset
+
+à son destin, notre destin\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Le Jidaï-atah, qui n
+\begin_inset Quotes ers
+\end_inset
+
+était autre qu
+\begin_inset Quotes ers
+\end_inset
+
+Oroar, initié du dixième cercle de Bel-Buk, sourit et leva son regard gris
+ vers les étoiles.
+\end_layout
+
+\begin_layout Standard
+- Retourne à tes œuvres.
+\end_layout
+
+\begin_layout Standard
+Les lamentations reprirent.
+\end_layout
+
+\begin_layout Standard
+- Oui maître.
+\end_layout
+
+\begin_layout Standard
+Le disciple se leva et recula jusqu
+\begin_inset Quotes ers
+\end_inset
+
+au porche monolithique.
+ Quand il le franchit, il aperçut un bref instant une lame scintillante
+ dans la main d
+\begin_inset Quotes ers
+\end_inset
+
+Oroar, avant qu
+\begin_inset Quotes ers
+\end_inset
+
+elle ne s
+\begin_inset Quotes ers
+\end_inset
+
+abatte.
+ Il frissonna et sourit.
+ Les étoiles cillèrent pour accueillir la vierge immolée.
+\end_layout
+
+\begin_layout Subparagraph*
+\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+- Vous pensez qu
+\begin_inset Quotes ers
+\end_inset
+
+elle réussira ? L
+\begin_inset Quotes ers
+\end_inset
+
+homme qui venait de s
+\begin_inset Quotes ers
+\end_inset
+
+adresser au baron Othon Da-Kineen était mince, longiligne et creux de visage.
+ Il avait le crâne rasé, ce qui lui conférait une allure d
+\begin_inset Quotes ers
+\end_inset
+
+oiseau de proie.
+ Il y avait dans ses yeux bleu clair, ce quelque chose d
+\begin_inset Quotes ers
+\end_inset
+
+inhumain et glacial qu
+\begin_inset Quotes ers
+\end_inset
+
+ont les fanatiques ou ceux qui ont trop souffert, et pour qui la vie n
+\begin_inset Quotes ers
+\end_inset
+
+est en somme rien de plus qu
+\begin_inset Quotes ers
+\end_inset
+
+un passage éphémère avant le néant.
+ C
+\begin_inset Quotes ers
+\end_inset
+
+était ce qu
+\begin_inset Quotes ers
+\end_inset
+
+on remarquait en premier chez lui.
+ C
+\begin_inset Quotes ers
+\end_inset
+
+est notre meilleur élément.
+ Finit par répondre Da-Kineen, après s
+\begin_inset Quotes ers
+\end_inset
+
+être finalement détourné de la fenêtre, pour faire face au moine qui l
+\begin_inset Quotes ers
+\end_inset
+
+observait.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Cette fille ne t
+\begin_inset Quotes ers
+\end_inset
+
+appartient pas.
+ Elle travaille pour toi, elle te sert mais elle est au Morganat, vieux
+ bouc et ça te chagrine.
+\end_layout
+
+\begin_layout Standard
+Il n
+\begin_inset Quotes ers
+\end_inset
+
+aimait pas le baron.
+ Il n
+\begin_inset Quotes ers
+\end_inset
+
+aimait pas les nobles en général et les militaires en particulier.
+ Ils avaient ce mépris dans les yeux et la bouche qui les rendait insupportables.
+ Ils se croyaient à l
+\begin_inset Quotes ers
+\end_inset
+
+abri, les maîtres du monde, tout ça parcequ
+\begin_inset Quotes ers
+\end_inset
+
+ils avaient, soi-disant, côtoyé la mort.
+ Comme si cela suffisait pour comprendre les hommes.
+ Il savait qu
+\begin_inset Quotes ers
+\end_inset
+
+ils étaient fourbes, car ne vivant que pour leur propre intérêt.
+ Il manquait chez la majorité des hommes cette vision globale du destin
+ de l
+\begin_inset Quotes ers
+\end_inset
+
+humanité qui dépassait les petites ambitions personnelles.
+ Il ne lui était jamais venu à l
+\begin_inset Quotes ers
+\end_inset
+
+esprit qu
+\begin_inset Quotes ers
+\end_inset
+
+il était lui-même un de ces hommes.
+\end_layout
+
+\begin_layout Standard
+Le baron ajouta d
+\begin_inset Quotes ers
+\end_inset
+
+une voix atone :
+\end_layout
+
+\begin_layout Standard
+- Elle n
+\begin_inset Quotes ers
+\end_inset
+
+a pas d
+\begin_inset Quotes ers
+\end_inset
+
+autre choix que de réussir.
+\end_layout
+
+\begin_layout Standard
+Le chauve cru comprendre ce que lui disait le baron, mais il se trompait.
+ Il savait que l
+\begin_inset Quotes ers
+\end_inset
+
+homme était usé par les nombreuses campagnes contre l
+\begin_inset Quotes ers
+\end_inset
+
+ennemi éternel, Panshaw, et qu
+\begin_inset Quotes ers
+\end_inset
+
+il ne commanderai sans doute plus les armées en marche.
+ Mais là encore, il se trompait.
+\end_layout
+
+\begin_layout Standard
+Je partirai demain, si le temps le permet.
+ 
+\shape italic
+Je ne veux pas te peser plus que de raison, vieil homme.
+\end_layout
+
+\begin_layout Standard
+L
+\begin_inset Quotes ers
+\end_inset
+
+homme du conseil des parfaits referma sa cape pourpre qui dissimulait des
+ épaulettes ornées de cinq barrettes de cuivre.
+ Il s
+\begin_inset Quotes ers
+\end_inset
+
+inclina et quitta le bureau sans attendre de réponse.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+C
+\begin_inset Quotes ers
+\end_inset
+
+est ça rapporte à ton maître, bon chien.
+ Bâtard tu me crois sénile, mais je te briserai toi et tes chefs
+\shape default
+.
+ Le baron était un noble, et de plus, il était homme de guerre, un combattant
+ valeureux, cruel et efficace.
+ Comme tous les hommes de son espèce, il n
+\begin_inset Quotes ers
+\end_inset
+
+aimait pas rendre des comptes aux moinillons du conseil.
+ Avec le départ de Lauranna de château Kineen, le baron savait qu
+\begin_inset Quotes ers
+\end_inset
+
+il venait de sceller la mort de nombreuses vies.
+ Mais ni lui ni le moine ne pouvaient imaginer ce que déclencherait la venue
+ à Panshaw de celle qu
+\begin_inset Quotes ers
+\end_inset
+
+on appelait l
+\begin_inset Quotes ers
+\end_inset
+
+Hydre-blanche.
+\end_layout
+
+\begin_layout Subparagraph*
+\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Le jeune officier d
+\begin_inset Quotes ers
+\end_inset
+
+état-major s
+\begin_inset Quotes ers
+\end_inset
+
+arrêta devant la porte pour réajuster une dernière fois sa tenue.
+ Il savait, comme tous les soldats.
+ Il avait entendu parler de la maniaquerie du légat.
+ En fait il ignorait que ce dernier estimait que les officiers devaient
+ montrer l
+\begin_inset Quotes ers
+\end_inset
+
+exemple, particulièrement dans ces situations mondaines, comme il les qualifiaie
+nt lui-même, où rien d
+\begin_inset Quotes ers
+\end_inset
+
+extérieur ne pouvait excuser une tenue négligée.
+ Après tout, ils n
+\begin_inset Quotes ers
+\end_inset
+
+avaient à penser qu
+\begin_inset Quotes ers
+\end_inset
+
+à ça !
+\end_layout
+
+\begin_layout Standard
+L
+\begin_inset Quotes ers
+\end_inset
+
+homme frappa à la porte et entra.
+ A l
+\begin_inset Quotes ers
+\end_inset
+
+intérieur, il se tint le plus droit qu
+\begin_inset Quotes ers
+\end_inset
+
+il put et attendit que l
+\begin_inset Quotes ers
+\end_inset
+
+homme assis à son bureau, dos à lui, lui donne la parole.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Quelle confiance, je pourrai aussi bien être un assassin à la solde des
+ Kotiens.
+\end_layout
+
+\begin_layout Standard
+En guise de mot, le légat fit un petit mouvement de l
+\begin_inset Quotes ers
+\end_inset
+
+index à l
+\begin_inset Quotes ers
+\end_inset
+
+encontre du jeune officier, mais sans jamais se détacher de son écrit.
+\end_layout
+
+\begin_layout Standard
+- Monsieur, le conseil du roi va débuter, je suis chargé de vous y conduire.
+\end_layout
+
+\begin_layout Standard
+Le ton était, quoiqu
+\begin_inset Quotes ers
+\end_inset
+
+un peu précipité, net et respectueux.
+ 
+\shape italic
+De vous y conduire\SpecialChar \ldots{}
+ un cavalier, sans doute
+\shape default
+.
+ Le légat sentit de la tension dans la voix de son subalterne.
+\end_layout
+
+\begin_layout Standard
+- N
+\begin_inset Quotes ers
+\end_inset
+
+a-t-on rien de mieux à vous faire faire, que de me 
+\begin_inset Quotes ard
+\end_inset
+
+conduire 
+\begin_inset Quotes ald
+\end_inset
+
+ en un lieu que je connais déjà ?
+\end_layout
+
+\begin_layout Standard
+La phrase n
+\begin_inset Quotes ers
+\end_inset
+
+était pas un reproche direct au jeune lieutenant, mais il ne pouvait pas
+ le savoir.
+ L
+\begin_inset Quotes ers
+\end_inset
+
+homme se retourna enfin, en s
+\begin_inset Quotes ers
+\end_inset
+
+appuyant sur le dossier de sa chaise, un demi-sourire sur sa face marquée
+ par le soleil, le vent et les années à dormir en campagne.
+ Narlon Barens, légat de la 20ème légion, le vainqueur de M
+\begin_inset Quotes ers
+\end_inset
+
+Haui-Efew était déjà un héros au sein de l
+\begin_inset Quotes ers
+\end_inset
+
+armée et en passe de le devenir pour le peuple.
+\end_layout
+
+\begin_layout Standard
+- Je n'ai rien dit.
+ Vous n
+\begin_inset Quotes ers
+\end_inset
+
+êtes pas responsable.
+ Depuis combien de temps êtes vous ici, lieutenant ?
+\end_layout
+
+\begin_layout Standard
+- Un an monsieur\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+- Légat, je suis Légat !
+\end_layout
+
+\begin_layout Standard
+- Mais monsieur, nous sommes\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+La reprise du terme plus que la tentative de résistance du jeune officier
+ piqua au vif Barens.
+\end_layout
+
+\begin_layout Standard
+- Nous sommes en ville, je sais ! Mais, vous et moi sommes des soldats,
+ nous savons qui nous sommes en réalité.
+ Il n
+\begin_inset Quotes ers
+\end_inset
+
+y personne d
+\begin_inset Quotes ers
+\end_inset
+
+autre que nous dans cette pièce.
+ Si le peuple ne nous reconnaît pas, c
+\begin_inset Quotes ers
+\end_inset
+
+est uniquement pour qu
+\begin_inset Quotes ers
+\end_inset
+
+il se sente protéger de ses propres armées.
+ Devant les autres, les conseillers, les légistes , le peuple, vous pouvez
+ m
+\begin_inset Quotes ers
+\end_inset
+
+appeler, « monsieur », et il mit tout le mépris qu
+\begin_inset Quotes ers
+\end_inset
+
+il put dans ce simple mot.
+ Entre-nous, je suis votre supérieur !
+\end_layout
+
+\begin_layout Standard
+Sa voix était montée progressivement et laissait, maintenant, éclater sa
+ colère.
+ Il avait toujours trouvé cette série de mesures stupides et dégradantes.
+ Tout le monde savait bien que Panshaw devait son salut à ses légions.
+ Alors pourquoi s
+\begin_inset Quotes ers
+\end_inset
+
+acharnait-on à rabaisser ces hommes ? Bien sûr, il fallait veiller à ce
+ que les armées ne se croient pas tout permis, et pour ça la loi contre
+ le port des armes, même pour les soldats, en ville était une bonne chose.
+ 
+\shape italic
+Il y avait décidément dans ce royaume des officiers d
+\begin_inset Quotes ers
+\end_inset
+
+état qui n
+\begin_inset Quotes ers
+\end_inset
+
+avaient rien de mieux à penser et à faire que de pondre des décrets insignifiant
+s et insultants\SpecialChar \ldots{}
+
+\shape default
+ il s
+\begin_inset Quotes ers
+\end_inset
+
+était levé et avait saisi sa gabardine.
+ Quand le lieutenant retrouva ses esprits, Barens était prêt à le suivre.
+\end_layout
+
+\begin_layout Standard
+- Un an, c
+\begin_inset Quotes ers
+\end_inset
+
+est trop long pour un jeune officier.
+ Vous devriez être en poste dans une légion en campagne.
+ J
+\begin_inset Quotes ers
+\end_inset
+
+y veillerai.
+\end_layout
+
+\begin_layout Standard
+Le jeune homme savait que ses postes était long à obtenir, mais là\SpecialChar \ldots{}
+ Un coup
+ de maillet et dans la foulée une caresse pour l'oreille.
+ En une phrase supplémentaire Barens venait de faire oublier l'incident
+ et redonner le moral à son officier.
+ Plus encore, il lui avait dit ce que tous les jeunes officiers panshiens
+ attendent de leur supérieur : Un encouragement, un espoir de progression.
+ Barens venait une fois de plus de se lier la loyauté indéfectible d
+\begin_inset Quotes ers
+\end_inset
+
+un de ses hommes.
+ Le jeune homme n'oublierait pas de sitôt la leçon.
+\end_layout
+
+\begin_layout Subparagraph*
+\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+L'ombre glissa entre les rochers glacés.
+ Désormais immobile, on n'aurait pu dire si elle avait bien existé un instant
+ plus tôt.
+ Serdr était très prudent.
+ Il se savait non seulement en terre hostile mais aussi en territoire ennemi.
+ Il avait mis trois jours pour s'approcher de la forteresse.
+ Lentement, terré le jour dans les anfractuosités les plus improbables,
+ se déplaçant la nuit comme un serpent.
+\end_layout
+
+\begin_layout Standard
+Le poste d'observation qu'il avait fini par établir était parfait, de son
+ point de vue.
+ De là il pouvait voir la forteresse, son entrée, une bonne partie de sa
+ cour et, il avait peu à peu compris quelles fenêtres étaient celles du
+ Baron dans l'immense donjon.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Trente quatre ans et déjà quinze ans que je fais l
+\begin_inset Quotes ers
+\end_inset
+
+andouille dans les coins les plus paumés de ce fichu pays !
+\shape default
+ Cette pensée l'aida à se concentrer à nouveau sur les évènements du château.
+ Serdr était Panshien, et ce seul fait lui vaudrait la mort sans procès
+ s'il était capturé ici ou n'importe où ailleurs à Darsh.
+ 
+\shape italic
+Mon vieil ennemi
+\shape default
+\SpecialChar \ldots{}
+
+\shape italic
+ La porte.
+
+\shape default
+ La porte principale venait de s'ouvrir laissant apparaitre un cavalier.
+ Celui là même qu'il avait vu se préparer quelques instants auparavant dans
+ la cour.
+ Celui-là même qu'il avait vu sortir du donjon d'une démarche souple juste
+ avant.
+ 
+\shape italic
+Un guerrier sans doute.
+ Le vieux Kineen a donné ses ordres.
+ Qui es-tu mon beau ? A moins que tu ne sois ma belle...
+
+\shape default
+ Alors qu'il posait la question à mi-voix, le cavalier fit une halte juste
+ à la sortie du pont d'accès.
+ Serdr reteint sa respiration, la forme ne bougea pas pendant une seconde
+ interminable, puis reprit sa route.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Faut vraiment que je rentre, je commence à faire des conneries\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Si c'était le même, ce cavalier était bien une cavalière.
+ Elle était arrivée hier tôt dans la journée et le vieux baron était descendu
+ en personne l'accueillir.
+ A cette distance, Serdr avait été cependant capable de distinguer sa chevelure
+ blonde, presque blanche, ses longs habits de voyages teintés de vert.
+ La démarche était souple presque féline et le port de tête altier.
+ Une noble sans doute, mais plus vraisemblablement une guerrière.
+\end_layout
+
+\begin_layout Standard
+Serdr notait toutes les allers et venues au château du baron.
+ Dans deux jours il partirait et retournerait à la frontière pour son rapport.
+ Kineen, il en était sûr, préparait quelque chose, mais quoi ? Il avait
+ vu ses soldats s’entrainer très régulièrement et de manière intensive.
+ Il avait vu des prêtres, des nobles, des officiers venir puis repartir.
+ A chaque fois ces petits comités duraient entre un à trois jours, jamais
+ plus.
+ Il n'avait jamais vu revenir la même personne.
+ Comme il ne vit jamais l'ombre dans son dos.
+\end_layout
+
+\begin_layout Standard
+Il y eut ce murmure.
+ Serdr voulut se retourner mais ses membres restèrent immobiles, inaccessibles
+ à ses ordres.
+ Un vent de panique souffla dans son esprit mais ne dura que le temps d'une
+ expiration.
+ Ses yeux se voilèrent alors que ses cervicales se brisaient.
+\end_layout
+
+\begin_layout Subparagraph*
+\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Le trajet jusqu
+\begin_inset Quotes ers
+\end_inset
+
+à Raven-M
+\begin_inset Quotes ers
+\end_inset
+
+Adrt ne dura que quelques minutes.
+ Barens logeait à l
+\begin_inset Quotes ers
+\end_inset
+
+hôtel des « frères vigueurs », comme à chaque fois qu
+\begin_inset Quotes ers
+\end_inset
+
+il s
+\begin_inset Quotes ers
+\end_inset
+
+arrêtait à Derach-Ach
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Derach-Ach : Capitale de Panshaw.
+\end_layout
+
+\end_inset
+
+.
+ Le légat laissa le jeune lieutenant à la porte du conseil et entra dans
+ le sein des seins, là où toutes les décisions les plus importantes pour
+ la sécurité du royaume se prenaient.
+ Le roi n
+\begin_inset Quotes ers
+\end_inset
+
+était pas là aujourd
+\begin_inset Quotes ers
+\end_inset
+
+hui.
+ Barens n
+\begin_inset Quotes ers
+\end_inset
+
+aimait pas vraiment ça, mais il savait que la raison en était que le roi
+ avait d
+\begin_inset Quotes ers
+\end_inset
+
+autres affaires urgentes à régler, et globalement il considérait cette prise
+ en charge des affaires du royaume par le suzerain comme un net progrès.
+ Barens avait confiance en son souverain.
+\end_layout
+
+\begin_layout Standard
+Il y avait déjà dix hommes qui discutaient tranquillement, ses pairs, les
+ légats, les commandants en chef des légions Panshiennes.
+ Le conseiller à la sécurité du roi se leva pour accueillir Barens.
+\end_layout
+
+\begin_layout Standard
+- Paix et Salut Narlon, nous t
+\begin_inset Quotes ers
+\end_inset
+
+attendions.
+\end_layout
+
+\begin_layout Standard
+- Paix et Salut Sylvar.
+\end_layout
+
+\begin_layout Standard
+Ils échangèrent une brève poignée de mains et Sylvar, l
+\begin_inset Quotes ers
+\end_inset
+
+homme du roi, comme l
+\begin_inset Quotes ers
+\end_inset
+
+appelaient les officiers, se rassit.
+\end_layout
+
+\begin_layout Standard
+- Messieurs, commençons.
+ Le roi s
+\begin_inset Quotes ers
+\end_inset
+
+excuse, mais des affaires importantes, elles, requièrent toute son attention.
+\end_layout
+
+\begin_layout Standard
+Il y eut quelques rires, des sourires.
+ C
+\begin_inset Quotes ers
+\end_inset
+
+était une plaisanterie commune et entendue au conseil du roi ; Tous ici
+ savaient qu
+\begin_inset Quotes ers
+\end_inset
+
+eux aussi allaient traiter des affaires importantes, mais c
+\begin_inset Quotes ers
+\end_inset
+
+était plutôt bon signe.
+ Les frontières étaient calmes depuis près de trois ans , ce qui n
+\begin_inset Quotes ers
+\end_inset
+
+était plus arrivé depuis la Grande paix signée six-cents ans plus tôt.
+\end_layout
+
+\begin_layout Standard
+- Vous avez tous prit connaissance des rapports de secteurs.
+\end_layout
+
+\begin_layout Standard
+Ça n
+\begin_inset Quotes ers
+\end_inset
+
+était pas une question, Sylvar savait que tous les légats en avaient lu
+ tout ou partie avant de se rendre au conseil.
+\end_layout
+
+\begin_layout Standard
+- Dans le secteur nord, monsieur D
+\begin_inset Quotes ers
+\end_inset
+
+aflon-Luys nous le confirmera sans doute, la frontière n
+\begin_inset Quotes ers
+\end_inset
+
+a jamais été aussi calme.
+ Barens se leva et , songeur, se dirigea vers l
+\begin_inset Quotes ers
+\end_inset
+
+une des fenêtres de la salle.
+\end_layout
+
+\begin_layout Standard
+- Au centre nous avons ordonné à deux de nos légions de rejoindre le secteur
+ sud, car c
+\begin_inset Quotes ers
+\end_inset
+
+est là que la situation est la plus conflictuelle.
+ Nous avons à faire face à d
+\begin_inset Quotes ers
+\end_inset
+
+incessantes escarmouches de la part de petites unités commandos de Kotzash.
+ Vinckharm ?
+\end_layout
+
+\begin_layout Standard
+Le légat de la 5
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+ème
+\end_layout
+
+\end_inset
+
+légion prit la parole calmement.
+\end_layout
+
+\begin_layout Standard
+- La situation n
+\begin_inset Quotes ers
+\end_inset
+
+est pas catastrophique, mais elle pourrait devenir préoccupante si elle
+ s
+\begin_inset Quotes ers
+\end_inset
+
+éternise.
+ Ces affrontements réguliers ont plusieurs effets dont il nous faut tenir
+ compte.
+ Nos pertes, tout d
+\begin_inset Quotes ers
+\end_inset
+
+abord, si elles sont minimes à chaque fois, s
+\begin_inset Quotes ers
+\end_inset
+
+élèvent déjà, en six mois, à deux mille hommes, pour plus de deux cents
+ combats.
+ A ce rythme, dans un an, nous aurons perdus l
+\begin_inset Quotes ers
+\end_inset
+
+équivalent d
+\begin_inset Quotes ers
+\end_inset
+
+une légion.
+ D
+\begin_inset Quotes ers
+\end_inset
+
+autre-part, la fatigue ; même si nous opérons à des rotations avec la 8
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+ème
+\end_layout
+
+\end_inset
+
+et la 17
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+ème
+\end_layout
+
+\end_inset
+
+, cet état de tension permanent mène la vie dure à nos soldats.
+ C
+\begin_inset Quotes ers
+\end_inset
+
+est pourquoi, il est important que la 7
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+ème
+\end_layout
+
+\end_inset
+
+et la 9
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+ème
+\end_layout
+
+\end_inset
+
+viennent nous soutenir.
+\end_layout
+
+\begin_layout Standard
+- Il y a un troisième effet.
+\end_layout
+
+\begin_layout Standard
+Barens était dos au groupe et regardait au dehors, mais il avait écouté
+ attentivement le rapport de son confrère.
+ Nous dégarnissons les secteurs centre, donc nous déséquilibrons nos forces
+ en présence, et mettons en danger notre plan de sécurité.
+ En fait il y a aussi un dernier effet néfaste pour le moral, notamment,
+ nous nous laissons attaquer sans réagir\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+- Nous connaissons tous vos positions Barens, mais ces légions servent à
+ ça\SpecialChar \ldots{}
+ Vinckharm avait pris un ton légèrement amusé, il était plus âgé de quinze
+ ans que le légat de la 20
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+ème
+\end_layout
+
+\end_inset
+
+.
+ En fait, il avait même présidé à sa nomination au poste de Légat.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+C'était il y a\SpecialChar \ldots{}
+ trop longtemps déjà.
+
+\shape default
+ Se dit Vinckharm.
+ Barens resta face à sa fenêtre.
+\end_layout
+
+\begin_layout Standard
+- Ces légions servent dans un dispositif global de six légions, dont les
+ missions sont : Assurer la sécurité interne du royaume et servir d
+\begin_inset Quotes ers
+\end_inset
+
+unités réserves et tampon en cas d
+\begin_inset Quotes ers
+\end_inset
+
+offensive majeure sur l
+\begin_inset Quotes ers
+\end_inset
+
+un des deux fronts, voir les deux, comme ça c
+\begin_inset Quotes ers
+\end_inset
+
+est déjà vu ! Donc nous déséquilibrons nos positions, mais surtout nous
+ remettons en question notre plan de défense du royaume.
+\end_layout
+
+\begin_layout Standard
+Vinckharm se renfrogna.
+ Il n
+\begin_inset Quotes ers
+\end_inset
+
+aimait pas qu
+\begin_inset Quotes ers
+\end_inset
+
+on lui tienne tête ainsi, mais c
+\begin_inset Quotes ers
+\end_inset
+
+était une habitude chez Barens.
+\end_layout
+
+\begin_layout Standard
+- Que préconises-tu alors ? Demanda Sylvar.
+\end_layout
+
+\begin_layout Standard
+- Laissons les légions descendre, mais qu
+\begin_inset Quotes ers
+\end_inset
+
+elles relèvent deux des légions les plus touchées, les 5 et 8 par exemple,
+ afin que celles-ci les remplacent dans le dispositif centre, qu'elles puissent
+ se reposer et regonfler leurs effectifs.
+\end_layout
+
+\begin_layout Standard
+- Mais, vous ne pensez qu
+\begin_inset Quotes ers
+\end_inset
+
+au dispositif.
+ Je viens de vous dire que ces hommes sont épuisés.
+ Deux légions de plus leur faciliteraient grandement la tache.
+\end_layout
+
+\begin_layout Standard
+- Dans le cas d
+\begin_inset Quotes ers
+\end_inset
+
+une offensive majeure, oui.
+ Mais là nous avons à faire face à des attaques éclairs, de troupes qui
+ se replient immédiatement derrière leur frontière.
+ Vous nous l
+\begin_inset Quotes ers
+\end_inset
+
+avez dit vous même.
+ Ils ont trouvés comment nous fatiguer.
+ Ils ne peuvent nous vaincre en batailles rangées, alors ils optent pour
+ la guérilla.
+\end_layout
+
+\begin_layout Standard
+- Vinckharm, Barens a raison, ça n
+\begin_inset Quotes ers
+\end_inset
+
+est qu
+\begin_inset Quotes ers
+\end_inset
+
+une solution à court terme, vous vous en rendez compte ? En plus, nous risquons
+ d'alourdir encore plus notre capacité de réaction et notre vitesse dans
+ ce type de conflit.
+ Le légat qui venait de s
+\begin_inset Quotes ers
+\end_inset
+
+exprimer était le plus jeune du groupe.
+ Il commandait la 16
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+ème
+\end_layout
+
+\end_inset
+
+légion, secteur nord.
+ Barens saisi l
+\begin_inset Quotes ers
+\end_inset
+
+occasion.
+\end_layout
+
+\begin_layout Standard
+- La fatigue s
+\begin_inset Quotes ers
+\end_inset
+
+étendra aux autres, le temps de coordonner vos actions, les Kotiens seront
+ ailleurs et recommenceront inlassablement.
+ Ce qu
+\begin_inset Quotes ers
+\end_inset
+
+il faut faire, c
+\begin_inset Quotes ers
+\end_inset
+
+est faire cesser les attaques.
+\end_layout
+
+\begin_layout Standard
+- Tu vas encore nous parler d
+\begin_inset Quotes ers
+\end_inset
+
+offensive.
+ Tu connais pourtant la position du roi sur ce sujet.
+ Pas d
+\begin_inset Quotes ers
+\end_inset
+
+agression.
+ Tant que nous restons des victimes, nous sommes assurés du soutien de nos
+ alliés, et le droit est pour nous.
+ Sylvar était intervenu calmement, mais on sentait une tension chez le vieil
+ homme, tension qui planait sur tout le conseil.
+\end_layout
+
+\begin_layout Standard
+- Je ne parle pas d
+\begin_inset Quotes ers
+\end_inset
+
+offensive, mais de contre-offensive.
+ Ils attaquent non pas pour envahir, mais pour affaiblir.
+ Profitons d
+\begin_inset Quotes ers
+\end_inset
+
+une de ces attaques mineures pour lancer une contre-attaque, qui les oblige
+ à se mouiller, qui leur fasse peur.
+ A notre tour affaiblissons les, en coupant les lignes de soutient de leurs
+ unités.
+ Refermons la nasse, asphyxions les.
+ Dans le même temps obligeons le gros de leurs troupes à nous arrêter, ils
+ ne pourront pas le faire s'ils tentent de sauver leurs commandos.
+ Je peux diviser ma légion.
+ Avec trois ou quatre corps de légions bien coordonnées, ils ne sauront
+ plus où donner de la tête.
+ Cela devrait suffire.
+ Il faut frapper fort et pousser au delà de nos frontières.
+ Ils n'ont pas l'habitude de combattre des unités plus petites que nos légions.
+ Nous devons leur montrer que nous sommes seuls à décider.
+ Tant que nous ne réagirons pas plus efficacement, je ne vois aucune raison
+ pour qu
+\begin_inset Quotes ers
+\end_inset
+
+ils s
+\begin_inset Quotes ers
+\end_inset
+
+arrêtent.
+\end_layout
+
+\begin_layout Standard
+- Mais les hommes\SpecialChar \ldots{}
+ Vinckharm ne put terminer, Barens qui s
+\begin_inset Quotes ers
+\end_inset
+
+était retourné, frappa violemment sur la table.
+\end_layout
+
+\begin_layout Standard
+- Je ne pense qu
+\begin_inset Quotes ers
+\end_inset
+
+à eux ! Nous avons déjà perdu deux mille hommes, vous nous l
+\begin_inset Quotes ers
+\end_inset
+
+avez dit.
+ Vous voulez qu
+\begin_inset Quotes ers
+\end_inset
+
+on en perde encore beaucoup comme ça ? Son regard balaya le conseil.
+ Je vous propose de réduire au silence pour un temps certain les armées
+ Kotiennes.
+\end_layout
+
+\begin_layout Standard
+- Mais les pertes d
+\begin_inset Quotes ers
+\end_inset
+
+une offensive\SpecialChar \ldots{}
+ La voix de Vinckharm était déjà bien moins assurée, et les
+ autres légats semblaient plonger dans de profondes réflexions.
+\end_layout
+
+\begin_layout Standard
+- Nous ne sommes pas des comptables ! Il ne s
+\begin_inset Quotes ers
+\end_inset
+
+agit pas de savoir s
+\begin_inset Quotes ers
+\end_inset
+
+il vaut mieux perdre six mille hommes en un an, ou en un mois, il s
+\begin_inset Quotes ers
+\end_inset
+
+agit d
+\begin_inset Quotes ers
+\end_inset
+
+arrêter d
+\begin_inset Quotes ers
+\end_inset
+
+en perdre ! il s
+\begin_inset Quotes ers
+\end_inset
+
+agit d
+\begin_inset Quotes ers
+\end_inset
+
+assurer notre intégrité territoriale !
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+C
+\begin_inset Quotes ers
+\end_inset
+
+est toujours comme ça
+\shape default
+.
+ Se dit Sylvar.
+ Il fallait toujours que ces deux là s
+\begin_inset Quotes ers
+\end_inset
+
+affrontent sur des points stratégiques.
+ Il savait bien que cela n
+\begin_inset Quotes ers
+\end_inset
+
+aurait pas de conséquences graves, les deux hommes s
+\begin_inset Quotes ers
+\end_inset
+
+estimaient et, sur les points importants, finissaient toujours pas s
+\begin_inset Quotes ers
+\end_inset
+
+entendre.
+ mais là, il lui fallait bien reconnaître que Barens disait des choses sensées.
+\end_layout
+
+\begin_layout Standard
+- Messieurs, cessons là.
+ Intervint-il.
+ Je rapporterai vos avis au roi.
+ Lui seul peut décider ou non d
+\begin_inset Quotes ers
+\end_inset
+
+une telle « contre-offensive ».
+ C'est assez subtil, mais ça peut, peut être, convenir au roi et aux diplomates...
+ En attendant les deux légions rejoignent le Tremlor.
+ Barens, j
+\begin_inset Quotes ers
+\end_inset
+
+ai appris que vous faisiez route au sud, vous aussi.
+ Toutes les têtes se tournèrent, surprises vers le légat.
+\end_layout
+
+\begin_layout Standard
+- En effet, mon ami Tarum, commandant la 9
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+ème
+\end_layout
+
+\end_inset
+
+légion m
+\begin_inset Quotes ers
+\end_inset
+
+a demandé de le remplacer, car il doit faire face actuellement à des bandes
+ de pillards dans la région de Spao
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Spao: cité portuaire du tremlor, au départ du delta de la Mistule.
+\end_layout
+
+\end_inset
+
+, et à des dissensions au sein de sa légion.
+ Il y eut des murmures autour de la table.
+ Vinckharm hocha négativement la tête.
+ Barens se demanda si c
+\begin_inset Quotes ers
+\end_inset
+
+était pour la décision cavalière de Tarum et de lui-même, ou pour les problèmes
+ de dissensions.
+ Il eut sa réponse.
+\end_layout
+
+\begin_layout Standard
+- C
+\begin_inset Quotes ers
+\end_inset
+
+est tout bonnement ahurissant ! Et vous qui nous parliez de dispositif !
+\end_layout
+
+\begin_layout Standard
+- Je comptais vous en informer.
+ Il se trouve que ma légion, affectée en « campagne-mobile » dans le dispositif
+ centre, était la plus proche du Tremlor.
+ Stratégiquement cela revenait donc à peu près au même.
+ Deuxièmement, il lui fallait agir promptement.
+ Le temps lui manquait pour attendre une réponse de la capitale.
+ La manœuvre n
+\begin_inset Quotes ers
+\end_inset
+
+est pas très conventionnelle, mais heureusement que nos armées peuvent encore
+ agir ainsi.
+ N
+\begin_inset Quotes ers
+\end_inset
+
+oubliez pas que c
+\begin_inset Quotes ers
+\end_inset
+
+est notre mobilité et notre capacité d
+\begin_inset Quotes ers
+\end_inset
+
+adaptation qui nous ont toujours permis de réagir efficacement.
+ Enfin, le dispositif n'est pas remis en cause, je le remplace, il me remplace.
+ Et puis\SpecialChar \ldots{}
+ Je serai dans le Tremlor si on décide d'agir.
+\end_layout
+
+\begin_layout Standard
+- Tout cela est effectivement peu conventionnel.
+ Mais je suppose qu
+\begin_inset Quotes ers
+\end_inset
+
+à situation exceptionnelle, solution exceptionnelle.
+ Barens perçut parfaitement le message.
+ Il valait mieux, à l
+\begin_inset Quotes ers
+\end_inset
+
+avenir, éviter de réitérer ce genre d
+\begin_inset Quotes ers
+\end_inset
+
+opération, mais cette fois le roi n
+\begin_inset Quotes ers
+\end_inset
+
+en saurait rien.
+\end_layout
+
+\begin_layout Standard
+Les onze hommes échangèrent, encore pendant une heure quelques informations
+ tactiques sur la sécurité, écoutèrent les derniers rapports des Renseignements.
+ Sylvar leur donna les dernières instructions du roi et tout le monde s
+\begin_inset Quotes ers
+\end_inset
+
+apprêta à sortir.
+ Quand ils eurent franchit la porte, Barens resté seul interpela Sylvar.
+\end_layout
+
+\begin_layout Standard
+- Pouvons nous nous voir, assez rapidement avant que je reparte rejoindre
+ ma légion ?
+\end_layout
+
+\begin_layout Standard
+- Qu
+\begin_inset Quotes ers
+\end_inset
+
+y a-t-il ? Sylvar s
+\begin_inset Quotes ers
+\end_inset
+
+interrompit et vit au regard de Barens que la chose était suffisamment important
+e pour ne pas être traitée sur le pas de la porte.
+ Bien sûr\SpecialChar \ldots{}
+ Seuls ?
+\end_layout
+
+\begin_layout Standard
+- Demande à Vinckharm de venir, mais il est inutile d
+\begin_inset Quotes ers
+\end_inset
+
+alerter les autres pour le moment.
+\end_layout
+
+\begin_layout Standard
+- Et bien disons ce soir, dans mes appartements vers dix heures.
+\end_layout
+
+\begin_layout Standard
+Les deux hommes se saluèrent et Barens retourna à son hôtel d
+\begin_inset Quotes ers
+\end_inset
+
+un pas alerte, il avait un courrier urgent à envoyer.
+ Sylvar le regarda s'éloigner un instant, perplexe.
+ Que pouvez bien avoir à lui dire le légat.
+ L
+\begin_inset Quotes ers
+\end_inset
+
+étoile montante des armées Panshiennes, avait sûrement quelque chose de
+ grave à dévoiler à l
+\begin_inset Quotes ers
+\end_inset
+
+homme du roi.
+\end_layout
+
+\begin_layout Subparagraph*
+\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Vinckharm arriva le dernier.
+ Le vieux légat avait la détestable habitude d
+\begin_inset Quotes ers
+\end_inset
+
+arriver en retard, et cette fois encore il ne dérogea pas.
+ Sylvar le fit entrer dans son salon particulier, sobre mais cossu.
+ On y sentait la richesse, on y respirait le pouvoir.
+ Barens était assis dans un large fauteuil en peau brune, tannée par le
+ temps.
+ 
+\shape italic
+Et sans doute par le passage de nombreux culs illustres
+\shape default
+.
+ Se dit Vinckharm qui entrait ici pour la première fois lui aussi.
+\end_layout
+
+\begin_layout Standard
+- Asseyons nous messieurs.
+ Je n'ai pas pour habitude de recevoir dans mes appartements privés, mais
+ l'affaire semblait grave.
+\end_layout
+
+\begin_layout Standard
+- Vous allez encore nous parler des lois des « désignations » ? Demanda,
+ sur le mode de la plaisanterie, Vinckharm à Barens.
+\end_layout
+
+\begin_layout Standard
+- Je referai une demande écrite en ce sens au roi, mais il ne s'agit pas
+ de cela\SpecialChar \ldots{}
+ Il s
+\begin_inset Quotes ers
+\end_inset
+
+arrêta, et se gratta la tête, signe d
+\begin_inset Quotes ers
+\end_inset
+
+une certaine nervosité.
+ 
+\shape italic
+Comment leur dire ça...
+
+\shape default
+ Sérieusement, je crains une attaque Darshienne d'envergure d
+\begin_inset Quotes ers
+\end_inset
+
+ici peu.
+ Barens était réputé pour ne pas tourner autour du pot, mais là c
+\begin_inset Quotes ers
+\end_inset
+
+était franchement abrupt.
+ Les deux hommes accusèrent le coup.
+ Sylvar se carra dans son fauteuil et Vinckharm sortit sa pipe et commença
+ à la bourrer soigneusement.
+\end_layout
+
+\begin_layout Standard
+Panshaw était habitué à subir des assauts de son voisin du nord, mais depuis
+ deux ans il n
+\begin_inset Quotes ers
+\end_inset
+
+y avait plus eu d
+\begin_inset Quotes ers
+\end_inset
+
+affrontement entre les deux royaumes.
+ Depuis que Darsh avait mené une vaste offensive sur l
+\begin_inset Quotes ers
+\end_inset
+
+ensemble de la frontière afin de troubler la défense Panshienne.
+ Cette attaque sauvage s
+\begin_inset Quotes ers
+\end_inset
+
+était soldée par une cinglante défaite et une retraite désordonnée qui aurait
+ pu coûter bien plus à Darsh, si les armées Panshiennes et la 20
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+ème
+\end_layout
+
+\end_inset
+
+ légion en particulier n
+\begin_inset Quotes ers
+\end_inset
+
+avaient pas reçu l
+\begin_inset Quotes ers
+\end_inset
+
+ordre imminent de s
+\begin_inset Quotes ers
+\end_inset
+
+arrêter à la frontière.
+ Une leçon qui s
+\begin_inset Quotes ers
+\end_inset
+
+était soldée par la mort de plus de 80.000 Darshiens et 50.000 Panshiens.
+ Une leçon que, pensait on à Derach-Ach, les Darshiens n
+\begin_inset Quotes ers
+\end_inset
+
+étaient pas prêts d
+\begin_inset Quotes ers
+\end_inset
+
+oublier, et une expérience qu
+\begin_inset Quotes ers
+\end_inset
+
+ils ne voudraient certainement pas réitérer avant longtemps.
+ Ce en quoi on se trompait lourdement\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Subparagraph*
+\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Lauranna chevauchait calmement.
+ Elle semblait indifférente aux paysages somptueux qui s
+\begin_inset Quotes ers
+\end_inset
+
+étiraient devant elle.
+ Un rapace fit une volte, haut dans le ciel matinal, il poussa un cri aigu
+ et plongea jusqu
+\begin_inset Quotes ers
+\end_inset
+
+à disparaître dans l
+\begin_inset Quotes ers
+\end_inset
+
+épaisse fourrure de la forêt dans laquelle la cavalière allait pénétrer,
+ dernière étape avant l
+\begin_inset Quotes ers
+\end_inset
+
+Ashrina d
+\begin_inset Quotes ers
+\end_inset
+
+Orangis.
+ 
+\shape italic
+Pourquoi le baron avait-il toléré que le moine du conseil soit là ?
+\end_layout
+
+\begin_layout Standard
+Les Parfaits avaient effectivement de bonnes raisons d
+\begin_inset Quotes ers
+\end_inset
+
+envoyer un espion auprès du baron.
+ Le vieil homme était un noble influent, un chef de guerre respecté et écouté,
+ donc un danger possible pour le conseil.
+ D
+\begin_inset Quotes ers
+\end_inset
+
+autre-part sa dernière idée, si elle avait le mérite d
+\begin_inset Quotes ers
+\end_inset
+
+être simple, de porter un coup sans précédent aux forces Panshiennes, et
+ d
+\begin_inset Quotes ers
+\end_inset
+
+offrir à Darsh la possibilité d
+\begin_inset Quotes ers
+\end_inset
+
+une victoire sans égal sur l
+\begin_inset Quotes ers
+\end_inset
+
+ennemi éternel, faisait aussi du baron le champion, l
+\begin_inset Quotes ers
+\end_inset
+
+homme incontournable du royaume.
+ Il fallait donc être sûr que celui-ci n
+\begin_inset Quotes ers
+\end_inset
+
+avait pas de velléités de pouvoir.
+ Évidemment, si le baron refusait l
+\begin_inset Quotes ers
+\end_inset
+
+émissaire du conseil, il se plaçait immédiatement en position délicate.
+ Du moins attirerait-il déraisonnablement l
+\begin_inset Quotes ers
+\end_inset
+
+attention sûr lui.
+ Pourtant, rien de bien important ne s
+\begin_inset Quotes ers
+\end_inset
+
+était dit dans cette entrevue.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+La mission bien entendu, mais rien n
+\begin_inset Quotes ers
+\end_inset
+
+indiquait quelles étaient les intentions de ce vieux salopard de Kineen.
+ Si intention il avait
+\shape default
+.
+\end_layout
+
+\begin_layout Standard
+Mais ça, Lauranna en était sûre.
+\end_layout
+
+\begin_layout Standard
+A l
+\begin_inset Quotes ers
+\end_inset
+
+approche de l
+\begin_inset Quotes ers
+\end_inset
+
+Ashrina elle dévoila sa longue chevelure blonde, tenue en une tresse complexe.
+ Le lourd manteau qui la couvrait, protégeait jusqu
+\begin_inset Quotes ers
+\end_inset
+
+à la croupe sa jument et dissimulait à peine la fine rapière qu
+\begin_inset Quotes ers
+\end_inset
+
+elle portait au côté.
+ L
+\begin_inset Quotes ers
+\end_inset
+
+Ashrina d
+\begin_inset Quotes ers
+\end_inset
+
+Orangis était similaire à toutes les Ashrina, octogonale, ressemblant à
+ une grosse forteresse ou à une ville fortifiée.
+ Elle regroupait plus de la moitié de la population de l
+\begin_inset Quotes ers
+\end_inset
+
+Ashra, la plus importante au sud d
+\begin_inset Quotes ers
+\end_inset
+
+Ashra-Uhn-oris
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Ashra-Uhn-oris: capitale de Darsh.
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Le baron régnait militairement, mais l
+\begin_inset Quotes ers
+\end_inset
+
+Ashrina était le centre politique et social de la région.
+ C
+\begin_inset Quotes ers
+\end_inset
+
+est là que se décidaient l
+\begin_inset Quotes ers
+\end_inset
+
+organisation et la vie quotidienne des Darshiens.
+ Et ce quotidien était dicté par le conseil des Parfaits, qui dans chaque
+ Ashrina avait un émissaire.
+ A cause de cela, les Panshiens qualifiaient Darsh de dictature théocratique.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Ces imbéciles qui pensaient tout connaître et se réfugiaient à la moindre
+ alerte, apeurés, derrière leurs sacro-saintes légions.
+ Le pouvoir à Panshaw est à l
+\begin_inset Quotes ers
+\end_inset
+
+armée.
+ Si ça n
+\begin_inset Quotes ers
+\end_inset
+
+est pas une dictature, c
+\begin_inset Quotes ers
+\end_inset
+
+est uniquement parce que les Panshiens sont des hypocrites.
+\end_layout
+
+\begin_layout Standard
+Les bâtiments étaient austères et fonctionnels, comme les gens de Darsh.
+ On ne savait jamais dans quelles mesures le climat et la nature difficile
+ d
+\begin_inset Quotes ers
+\end_inset
+
+un pays influençaient le caractère de ses habitants, mais on devait reconnaître
+ qu
+\begin_inset Quotes ers
+\end_inset
+
+à l
+\begin_inset Quotes ers
+\end_inset
+
+image de cette nature austère, les Darshiens étaient froids et peu avenants.
+\end_layout
+
+\begin_layout Standard
+Le Darshien était un solide gaillard, généralement assez grand, mais bourru
+ et peu enclin aux festivités.
+ Il était surtout un combattant sauvage, que les légendes qualifiaient même
+ de sanguinaire.
+ Lauranna souri malgré elle à cette pensée.
+ Elle se demandait combien d
+\begin_inset Quotes ers
+\end_inset
+
+hommes il fallait tuer pour alimenter cette légende, et se dit même qu
+\begin_inset Quotes ers
+\end_inset
+
+elle avait dû y contribuer.
+ 
+\shape italic
+Ne suis-je pas une légende vivante ?
+\shape default
+ Cette dernière pensée la fit encore sourire, puis elle s
+\begin_inset Quotes ers
+\end_inset
+
+avisa qu
+\begin_inset Quotes ers
+\end_inset
+
+il s
+\begin_inset Quotes ers
+\end_inset
+
+agissait plus d
+\begin_inset Quotes ers
+\end_inset
+
+une question de qualité que de quantité de morts !
+\end_layout
+
+\begin_layout Standard
+Elle franchit la voûte d
+\begin_inset Quotes ers
+\end_inset
+
+ogive grise de l
+\begin_inset Quotes ers
+\end_inset
+
+Ashrina.
+ Il n
+\begin_inset Quotes ers
+\end_inset
+
+y avait pas garde, ça n
+\begin_inset Quotes ers
+\end_inset
+
+avait rien de surprenant, sauf pour l
+\begin_inset Quotes ers
+\end_inset
+
+étranger.
+ Devant une ville fortifiée on s
+\begin_inset Quotes ers
+\end_inset
+
+attendait à une milice, pour le moins.
+ Mais les soldats étaient cantonnés ailleurs, dans les forts et les châteaux,
+ le long des marches du royaume.
+ Signes tangibles d
+\begin_inset Quotes ers
+\end_inset
+
+un état perpétuellement en guerre, ces forteresses étaient judicieusement
+ placées à tous les cols, sur toutes les routes stratégiques, principalement
+ aux abords des frontières.
+ Elles faisaient l
+\begin_inset Quotes ers
+\end_inset
+
+objet de soins tout particuliers, d
+\begin_inset Quotes ers
+\end_inset
+
+ailleurs les armées Darshiennes excellaient dans le génie, pour la simple
+ raison que c
+\begin_inset Quotes ers
+\end_inset
+
+était elle et non l'état qui entretenait tous ces forts.
+ Les Darshiens étaient fiers de leurs châteaux.
+ Ce sont ces derniers qui ont toujours permit au royaume de résister aux
+ contre-attaques Panshiennes.
+ Les stratèges avaient, en effet, deux missions.
+ La première, élaborer des plans d
+\begin_inset Quotes ers
+\end_inset
+
+invasion, ou des raids sur Panshaw.
+ L
+\begin_inset Quotes ers
+\end_inset
+
+autre, protéger le royaume contre les représailles Panshiennes, car depuis
+ des décennies, jamais une guerre ne s
+\begin_inset Quotes ers
+\end_inset
+
+était terminée autrement que par une retraite Darshienne et une contre-offensive
+ Panshienne.
+ Encore que rares aient été les incursions en territoire Darshien par les
+ légions Panshiennes.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Encore une preuve de leur lâcheté, sinon de leur prétention\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Cet état de fait avait deux conséquences immédiates, la première était que
+ Darsh vouait une haine inextinguible pour Panshaw, et la deuxième beaucoup
+ plus embarrassante pour l'état-major Darshien, était qu
+\begin_inset Quotes ers
+\end_inset
+
+aucun officier Darshien n
+\begin_inset Quotes ers
+\end_inset
+
+imaginait qu
+\begin_inset Quotes ers
+\end_inset
+
+on puisse, seul, battre les armées de la « terre du milieu ».
+ Ascendant psychologique extraordinaire que cultivait soigneusement, par
+ une propagande ciblée, les légions Panshiennes.
+\end_layout
+
+\begin_layout Standard
+Les Ashrina étaient ouvertes, on entrait par un large passage voûté, sans
+ porte, sans grille ni herse.
+ Il n
+\begin_inset Quotes ers
+\end_inset
+
+y avait qu
+\begin_inset Quotes ers
+\end_inset
+
+une entrée, et c
+\begin_inset Quotes ers
+\end_inset
+
+était la même pour sortir.
+ Il était tôt et il y avait encore peu d
+\begin_inset Quotes ers
+\end_inset
+
+activité au sein de l
+\begin_inset Quotes ers
+\end_inset
+
+Ashrina.
+ Lauranna dirigea sa monture vers l
+\begin_inset Quotes ers
+\end_inset
+
+unique auberge, se frayant un passage au milieu de quelques volatiles de
+ basse-cour, qui piaillèrent et s
+\begin_inset Quotes ers
+\end_inset
+
+égayèrent en tout sens.
+ Au moment où elle mit pied à terre, une jeune fille vint la voir.
+ La quinzaine, ses cheveux rasés et sa longue robe de peau tannée indiquaient
+ sûrement son appartenance au Morganat.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Tout comme je le fus.
+\end_layout
+
+\begin_layout Standard
+- Il y a donc une école ici ?
+\end_layout
+
+\begin_layout Standard
+La jeune fille inclinait la tête en croisant les mains sur sa poitrine en
+ guise de salut et dit :
+\end_layout
+
+\begin_layout Standard
+- L
+\begin_inset Quotes ers
+\end_inset
+
+Ashra est assez importante.
+\end_layout
+
+\begin_layout Standard
+Après un bref silence, pendant lequel elle vit Lauranna dessangler sa jument,
+ elle redressa la tête et ajouta : Mère, la Révérende Lisiama veut vous
+ voir, maintenant.
+ 
+\shape italic
+Le ton n'était-il pas un peu péremptoire ?
+\end_layout
+
+\begin_layout Standard
+- Doucement petite !
+\end_layout
+
+\begin_layout Standard
+La voix semblait sorti d
+\begin_inset Quotes ers
+\end_inset
+
+outre-tombe, et la jeune imprudente ressenti une violente douleur à l'estomac
+ comme un poing qui la frappait.
+ Elle tomba à genoux.
+ Ne t
+\begin_inset Quotes ers
+\end_inset
+
+avons nous pas appris le respect des aînées ? Relève-toi et conduis-moi,
+ maintenant.
+\end_layout
+
+\begin_layout Standard
+L
+\begin_inset Quotes ers
+\end_inset
+
+enfant bredouilla des excuses et fébrilement guida Lauranna vers l
+\begin_inset Quotes ers
+\end_inset
+
+école.
+ Elle avait eu mal, elle sentait encore son corps douloureux, 
+\shape italic
+la Voix\SpecialChar \ldots{}
+ Un jour elle saurait aussi l
+\begin_inset Quotes ers
+\end_inset
+
+utiliser
+\shape default
+.
+ Pour le moment elle devait encore apprendre et encaisser.
+\end_layout
+
+\begin_layout Standard
+Elles entrèrent par une double porte de métal dans l
+\begin_inset Quotes ers
+\end_inset
+
+école.
+ Puis elles pénétrèrent dans un hall sombre, éclairé faiblement par des
+ braséros qui projetaient des ombres dansantes sur les murs gris et froids
+ de la salle.
+ La jeune fille demanda à Lauranna de bien vouloir attendre ici, et sortit
+ par une petite porte basse au fond de la pièce.
+ Lauranna fit quelques pas au milieu du hall, vers cette porte, sembla hésiter
+ un instant et s
+\begin_inset Quotes ers
+\end_inset
+
+avança encore, puis elle se retourna calmement pour contempler, sans doute
+ la Révérende Lisiama.
+ Celle-ci arrêta ses pas aussitôt.
+ Elle eut un léger sourire, tira une lettre d
+\begin_inset Quotes ers
+\end_inset
+
+une de ses manches et la tendit à Lauranna.
+\end_layout
+
+\begin_layout Standard
+- Bienvenue à toi sœur, ceci est pour toi et vient du Centre.
+\end_layout
+
+\begin_layout Standard
+- Je ne suis plus membre du Centre\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+- Mais tu lui est redevable.
+ Paie ta dette et tu seras libre.
+ Lis cette lettre.
+\end_layout
+
+\begin_layout Standard
+Lauranna s
+\begin_inset Quotes ers
+\end_inset
+
+avança pour prendre la lettre.
+ Elle vit les trois sceaux du Centre du Morganat, les décacheta et lut\SpecialChar \ldots{}
+ Puis
+ elle relut encore en s
+\begin_inset Quotes ers
+\end_inset
+
+attardant sur les derniers mots.
+ « \SpecialChar \ldots{}
+tu auras un fils que tu nous donneras.
+ Fais ce que tu veux du père. »
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Un fils ? Le moment était-il venu ? Le Morganat approchait-il du but ? Avaient
+ elles eu vent de sa mission ? Libre.
+ Payer ma dette\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Son visage ne marqua aucune stupeur, ni aucune émotion à la lecture, même
+ si la Révérende perçu, peut-être, elle n
+\begin_inset Quotes ers
+\end_inset
+
+en était pas sûre, un léger trouble chez l
+\begin_inset Quotes ers
+\end_inset
+
+Hydre-blanche.
+ Celle-ci froissa le papier et le fit brûler dans l
+\begin_inset Quotes ers
+\end_inset
+
+un des braséros.
+\end_layout
+
+\begin_layout Standard
+- Je ne peux rester, Révérende.
+ Elle ajouta :
+\end_layout
+
+\begin_layout Standard
+- La jeune sœur que vous m
+\begin_inset Quotes ers
+\end_inset
+
+avez envoyée\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+- Fiama ? Elle a du caractère, mais il faut qu
+\begin_inset Quotes ers
+\end_inset
+
+elle apprenne à contrôler son orgueil.
+\end_layout
+
+\begin_layout Standard
+- C
+\begin_inset Quotes ers
+\end_inset
+
+est une bonne élève.
+ Elle apprendra.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Bien sûr, elle apprendra, comme moi.
+ Elle souffrira, mais elle apprendra.
+\end_layout
+
+\begin_layout Standard
+Lauranna esquissa cependant un sourire, s
+\begin_inset Quotes ers
+\end_inset
+
+inclina pour saluer et partit.
+ Lorsque la porte claqua derrière elle, la Révérende était encore à la suivre
+ des yeux.
+ 
+\shape italic
+C
+\begin_inset Quotes ers
+\end_inset
+
+est vrai qu
+\begin_inset Quotes ers
+\end_inset
+
+elle est étonnante.
+ Comment a-t-elle pu m
+\begin_inset Quotes ers
+\end_inset
+
+entendre arriver ? Je me fais vieille ?
+\shape default
+ Lisiama referma son esprit sur ses doutes et quitta le hall.
+\end_layout
+
+\begin_layout Chapter
+T
+\begin_inset Quotes ers
+\end_inset
+
+An-T
+\begin_inset Quotes ers
+\end_inset
+
+Aï
+\end_layout
+
+\begin_layout Quotation
+
+\size footnotesize
+« L
+\begin_inset Quotes ers
+\end_inset
+
+air vibre, il y a comme un bourdonnement, comme lorsque la foudre s
+\begin_inset Quotes ers
+\end_inset
+
+apprête à tomber.
+ Le processus physique est incompréhensible, mais l
+\begin_inset Quotes ers
+\end_inset
+
+air s
+\begin_inset Quotes ers
+\end_inset
+
+obscurcit, non qu
+\begin_inset Quotes ers
+\end_inset
+
+il y est plus de nuage ou des brumes, mais plutôt que l
+\begin_inset Quotes ers
+\end_inset
+
+air devient plus dense, comme plus compact.
+ Et ce, tout autour du Jidaï-atah ; C
+\begin_inset Quotes ers
+\end_inset
+
+est ainsi qu
+\begin_inset Quotes ers
+\end_inset
+
+on les nomme\SpecialChar \ldots{}
+ »
+\end_layout
+
+\begin_layout Quote
+
+\size footnotesize
+Extrait du « petit manuel d
+\begin_inset Quotes ers
+\end_inset
+
+Annwfn » d
+\begin_inset Quotes ers
+\end_inset
+
+Alisée Stafford.
+\end_layout
+
+\begin_layout Quote
+ 
+\end_layout
+
+\begin_layout Standard
+Leysseen s
+\begin_inset Quotes ers
+\end_inset
+
+approcha de la Voile.
+ C
+\begin_inset Quotes ers
+\end_inset
+
+est ainsi que les Sethiens nommaient leur véhicule.
+ Une sorte d
+\begin_inset Quotes ers
+\end_inset
+
+immense traîneau, tiré par six Dromas et propulsé par une grande voile triangula
+ire flottant au dessus d'un pont recouvert de toiles.
+ Celles-ci protégeaient les marchandises et les personnes qui n
+\begin_inset Quotes ers
+\end_inset
+
+étaient pas de garde et se reposaient.
+ Du bord de la balustrade, il pouvait voir Elvan étendu sur une couche,
+ divers bandeaux lui recouvraient la tête et le visage.
+ Ysaël se pencha sur son frère et épongea son front brûlant.
+\end_layout
+
+\begin_layout Standard
+- Comment va-t-il ?
+\end_layout
+
+\begin_layout Standard
+Ysaël se retourna le visage grave.
+\end_layout
+
+\begin_layout Standard
+- Il dort.
+ Sha
+\begin_inset Quotes ers
+\end_inset
+
+Mn Ilot dit qu
+\begin_inset Quotes ers
+\end_inset
+
+il devrait pouvoir marcher d
+\begin_inset Quotes ers
+\end_inset
+
+ici deux jours, qu
+\begin_inset Quotes ers
+\end_inset
+
+il est jeune et fort et qu
+\begin_inset Quotes ers
+\end_inset
+
+il récupérera vite.
+\end_layout
+
+\begin_layout Standard
+Leysseen laissa un court silence puis dit plus doucement.
+\end_layout
+
+\begin_layout Standard
+- Acharb m
+\begin_inset Quotes ers
+\end_inset
+
+a dit que c
+\begin_inset Quotes ers
+\end_inset
+
+était un dragon.
+ Un grand ver, comme certains anciens les appellent.
+ Qu
+\begin_inset Quotes ers
+\end_inset
+
+on a eu beaucoup de chance.
+\end_layout
+
+\begin_layout Standard
+- De la chance ! Si Elvan...
+\end_layout
+
+\begin_layout Standard
+- Il le sait.
+ La coupa Leysseen.
+ Il reconnaît lui même que la caravane a été complètement prise par surprise.
+ D
+\begin_inset Quotes ers
+\end_inset
+
+habitude les dragons ne dorment pas si près de cette route\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+- D
+\begin_inset Quotes ers
+\end_inset
+
+habitude ! Quelles habitudes encore devons nous découvrir ?
+\end_layout
+
+\begin_layout Standard
+Ysaël ne dissimulait même plus sa colère.
+ Leysseen fut surpris et la regarda perplexe.
+ Devant son regard, elle se figea.
+\end_layout
+
+\begin_layout Standard
+- Va ! Reprend ta place dans la garde.
+ Il ne faudrait pas qu
+\begin_inset Quotes ers
+\end_inset
+
+on se fasse surprendre une nouvelle fois.
+\end_layout
+
+\begin_layout Standard
+Elle détourna ses yeux et retourna au chevet d
+\begin_inset Quotes ers
+\end_inset
+
+Elvan.
+ Leysseen l'observa encore un instant puis accéléra pour rejoindre son équipier.
+ 
+\shape italic
+Qu
+\begin_inset Quotes ers
+\end_inset
+
+est-ce que je lui ai fait ? Ce n
+\begin_inset Quotes ers
+\end_inset
+
+est tout de même pas de ma faute
+\shape default
+.
+ Il balaya ses pensées d
+\begin_inset Quotes ers
+\end_inset
+
+un revers de la main et se concentra sur sa garde.
+\end_layout
+
+\begin_layout Standard
+Il était déjà loin quand Ysaël laissa aller ses sanglots.
+ Elle ne pouvait plus les arrêter.
+ Ils se déversaient en cascade silencieuse, la secouaient et faisaient trembler
+ tout son corps.
+ Elle se recroquevilla contre son frère.
+ 
+\shape italic
+Pardonne-moi.
+ C'est ma frivolité qui a causé tout ça...
+ Je serai forte désormais, je te le promet
+\shape default
+.
+ Elle murmura ces derniers mots et Elvan soupira dans son sommeil.
+\end_layout
+
+\begin_layout Subparagraph*
+\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Des trois, ce fut Leysseen qui la vit le premier.
+ T
+\begin_inset Quotes ers
+\end_inset
+
+An-T
+\begin_inset Quotes ers
+\end_inset
+
+Aï, la ville aux 10000 bannières.
+ Depuis plusieurs jours, il aidait les hommes de tête dans la conduite,
+ pendant qu
+\begin_inset Quotes ers
+\end_inset
+
+Elvan et Ysaël étaient cantonnés plus en retrait dans la caravane.
+ Elvan se remettait doucement de l
+\begin_inset Quotes ers
+\end_inset
+
+Inaï-A
+\begin_inset Quotes ers
+\end_inset
+
+sinn qui l
+\begin_inset Quotes ers
+\end_inset
+
+avait terrassé lors de sa confrontation au dragon des sables.
+ Ces chocs en retour pouvaient être mortels pour les Jidaï-atah imprudents,
+ quand les énergies naturelles bouleversées par la volonté du jeteur de
+ sort, refluaient par lui pour reprendre leur place dans l'ordre naturel
+ des choses.
+ Ysaël s
+\begin_inset Quotes ers
+\end_inset
+
+était montré particulièrement attentive, douce et prévenante avec son frère
+ durant toute sa convalescence qui avait durée presque sept jours.
+ Elle s
+\begin_inset Quotes ers
+\end_inset
+
+était montré plus froide et plus distante avec Leysseen qu
+\begin_inset Quotes ers
+\end_inset
+
+elle ne l
+\begin_inset Quotes ers
+\end_inset
+
+avait jamais été.
+ Quand il essayait de lui demander ce qui n
+\begin_inset Quotes ers
+\end_inset
+
+allait pas, elle détournait ses doutes par une boutade en lui assurant qu
+\begin_inset Quotes ers
+\end_inset
+
+il n
+\begin_inset Quotes ers
+\end_inset
+
+y avait rien.
+ Qu
+\begin_inset Quotes ers
+\end_inset
+
+il était trop sérieux.
+ Il n
+\begin_inset Quotes ers
+\end_inset
+
+insistait pas.
+\end_layout
+
+\begin_layout Standard
+La ville était apparue presque soudainement, immense, telle une masse de
+ rocailles qui prenait racine dans le sable même du désert.
+ Sur ses tours et ses remparts flottaient une multitude d
+\begin_inset Quotes ers
+\end_inset
+
+oriflammes, symboles des clans, blasons des Thégérits.
+ On aurait dit que la ville volait au-dessus du sol poussiéreux.
+ Plus ils s
+\begin_inset Quotes ers
+\end_inset
+
+approchaient, plus elle apparaissait belle, tentaculaire, inquiétante, tout
+ à la fois captivante et effrayante.
+ C
+\begin_inset Quotes ers
+\end_inset
+
+était T
+\begin_inset Quotes ers
+\end_inset
+
+An-T
+\begin_inset Quotes ers
+\end_inset
+
+Aï, c
+\begin_inset Quotes ers
+\end_inset
+
+était la ville du roi, celle aux trois remparts, la capitale du royaume
+ du désert : Chanseth.
+\end_layout
+
+\begin_layout Standard
+De ses immenses portes s
+\begin_inset Quotes ers
+\end_inset
+
+échappaient un flot continu de caravanes qui filaient vers les destinations
+ obscures du Grand blanc, comme avaient appris à le nommer Leysseen et ses
+ camarades.
+ Pendant ce temps, une marée non moins continue d
+\begin_inset Quotes ers
+\end_inset
+
+autres caravanes s
+\begin_inset Quotes ers
+\end_inset
+
+engouffraient dans les dédales urbains de la première cité que voyaient
+ les trois jeunes gens, sortis depuis à peine trente jours du complexe de
+ la tour.
+\end_layout
+
+\begin_layout Standard
+Leysseen fut tiré de sa stupeur par un rire amical.
+ A côté de lui, Askenuh étalait ses dents blanches dans une grimace hilare.
+\end_layout
+
+\begin_layout Standard
+- Ne t
+\begin_inset Quotes ers
+\end_inset
+
+en fais pas, fit-il sur un ton comploteur, elle ne mange pas vraiment les
+ hommes !
+\end_layout
+
+\begin_layout Standard
+Et il repartit à rire en s
+\begin_inset Quotes ers
+\end_inset
+
+éloignant de Leysseen encore interloqué.
+\end_layout
+
+\begin_layout Subparagraph*
+\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Cela faisait plus de cinq heures que la caravane piétinait avec de nombreux
+ et assommant temps d
+\begin_inset Quotes ers
+\end_inset
+
+arrêt.
+ Elle entrait péniblement dans la ville.
+ T
+\begin_inset Quotes ers
+\end_inset
+
+An Acharb l
+\begin_inset Quotes ers
+\end_inset
+
+avait annoncé la veille, ils arriveraient à la mauvaise heure, l
+\begin_inset Quotes ers
+\end_inset
+
+heure où les contrôles sont les plus nombreux et les entrées les plus importante
+s.
+ Leysseen restait émerveillé de la multitude de gens.
+ Lui qui était resté confiné pendant vingt ans dans cet espace clos et protecteu
+r de la tour.
+ Tant de gens, tant de couleurs, de bruits et d
+\begin_inset Quotes ers
+\end_inset
+
+odeurs à la fois.
+ C
+\begin_inset Quotes ers
+\end_inset
+
+était enivrant.
+ Il était comme un enfant, à la frontière de la peur et de la fascination.
+ Puis la stupéfaction fit place aux doutes, et les doutes à l
+\begin_inset Quotes ers
+\end_inset
+
+angoisse.
+\end_layout
+
+\begin_layout Standard
+Elvan se demandait ce qu
+\begin_inset Quotes ers
+\end_inset
+
+ils allaient faire maintenant.
+ Ils étaient sortis de la tour avec des rêves de voyages et des envies de
+ découvertes débordantes, mais ici, dans ce brouhaha, au milieu de cette
+ immense inconnue.
+ Qu
+\begin_inset Quotes ers
+\end_inset
+
+allaient-ils faire maintenant ? Ils n
+\begin_inset Quotes ers
+\end_inset
+
+en n
+\begin_inset Quotes ers
+\end_inset
+
+avaient jamais parlé.
+ Les événements et la succession rituelle des journées ne leur avait pas
+ laissé le loisir.
+ Quand la journée s
+\begin_inset Quotes ers
+\end_inset
+
+achevait enfin, les trois jeunes gens sombraient rapidement dans un sommeil
+ réparateur et sans rêve.
+\end_layout
+
+\begin_layout Standard
+Il leva les yeux une fois de plus vers les remparts immenses.
+ Le bruit était assourdissant, des milliers de gens, des caravaniers qui
+ s
+\begin_inset Quotes ers
+\end_inset
+
+interpellaient, des enfants qui jouaient, des gardes qui discutaient et
+ des animaux qui piaffaient d
+\begin_inset Quotes ers
+\end_inset
+
+impatience.
+ Ysaël et Elvan arrivèrent ensembles.
+ Ils rayonnaient d
+\begin_inset Quotes ers
+\end_inset
+
+émerveillement, et tirèrent le jeune homme de ses pensées.
+\end_layout
+
+\begin_layout Standard
+- T
+\begin_inset Quotes ers
+\end_inset
+
+An Acharb nous attend en tête, maintenant, ajouta Leysseen vers Elvan qui
+ semblait hésiter.
+ Il rassembla ses maigres affaires et les trois jeunes se dirigèrent vers
+ la tête de la caravane.
+ Là le T
+\begin_inset Quotes ers
+\end_inset
+
+An les attendait effectivement, un garde barbu et trapu discutait avec lui,
+ avec des gestes et de grands éclats de rire.
+ Ils les aperçurent et leur discussion s
+\begin_inset Quotes ers
+\end_inset
+
+arrêta net.
+ Instinctivement, Ysaël et Leysseen laissèrent Elvan s
+\begin_inset Quotes ers
+\end_inset
+
+approcher comme porte-parole.
+\end_layout
+
+\begin_layout Standard
+- Jidaï-atah, j
+\begin_inset Quotes ers
+\end_inset
+
+ai été heureux de te rencontrer, toi et tes amis.
+ Vous serez toujours les bienvenus.
+ Vous\SpecialChar \ldots{}
+ avez remplis votre office au sein de notre convoi au-delà de mes espérance
+s.
+ Maintenant, vous allez quitter la caravane.
+ Vous appartenez à T
+\begin_inset Quotes ers
+\end_inset
+
+An-T
+\begin_inset Quotes ers
+\end_inset
+
+Aï.
+ Cet officier va vous conduire au bureau des identités.
+ Ne vous inquiétez pas, dites-lui la vérité et que les sables vous protègent.
+\end_layout
+
+\begin_layout Standard
+- Que les vents de sable s
+\begin_inset Quotes ers
+\end_inset
+
+épuisent et que ta route soit étoilée ! Merci T
+\begin_inset Quotes ers
+\end_inset
+
+An Acharb de ton accueil et de ton savoir.
+\end_layout
+
+\begin_layout Standard
+Acharb pencha la tête de côté en écoutant les formules de politesse.
+ Un sourire énigmatique alluma son visage , il saisit Elvan par les épaules
+ et lui porta une chaleureuse accolade.
+ L
+\begin_inset Quotes ers
+\end_inset
+
+officier inclina gravement la tête, Elvan sourit une dernière fois à T
+\begin_inset Quotes ers
+\end_inset
+
+An Acharb et ce dernier repartit pour la caravane qui continuait son chemin
+ dans les ruelles, vers les caravansérails.
+ L
+\begin_inset Quotes ers
+\end_inset
+
+officier salua et leur pria de le suivre.
+ Ils quittèrent ainsi la foule pour entrer dans l
+\begin_inset Quotes ers
+\end_inset
+
+une des deux tours de la porte de la ville.
+\end_layout
+
+\begin_layout Standard
+- Il est rare de voir un étranger connaître nos formules de politesse.
+ Où les avez-vous apprises ? Demanda nonchalamment l
+\begin_inset Quotes ers
+\end_inset
+
+officier.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Dites-lui la vérité
+\shape default
+\SpecialChar \ldots{}
+ Les paroles d
+\begin_inset Quotes ers
+\end_inset
+
+Acharb résonnaient encore dans la tête d
+\begin_inset Quotes ers
+\end_inset
+
+Elvan, et maintenant son esprit tournait à toute vitesse.
+ Il n
+\begin_inset Quotes ers
+\end_inset
+
+avait jamais eu l
+\begin_inset Quotes ers
+\end_inset
+
+intention de mentir.
+ Que pouvait signifier cette mise en-garde ? Son séjour dans la caravane
+ lui avait appris que le T
+\begin_inset Quotes ers
+\end_inset
+
+An ne parlait jamais à la légère, il avait souvent employé des formules
+ énigmatiques, mais le jeune homme avait toujours su entendre les mots couverts.
+\end_layout
+
+\begin_layout Standard
+- Ce sont nos censeurs qui nous les ont apprises.
+ Nous les appelons les frêres-parents.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+La vérité.
+ Juste ce qu'il faut.
+ Il devra s
+\begin_inset Quotes ers
+\end_inset
+
+en contenter
+\shape default
+.
+ Elvan crut voir l
+\begin_inset Quotes ers
+\end_inset
+
+officier sourciller, mais il n
+\begin_inset Quotes ers
+\end_inset
+
+en était pas certain, et celui-ci ne lui répondit que par un vague grognement
+ d
+\begin_inset Quotes ers
+\end_inset
+
+assentiment.
+ Si Elvan avait poussé plus avant son observation, il aurait peut-être vu
+ la main posée sur la garde de l
+\begin_inset Quotes ers
+\end_inset
+
+épée quitter sa place et ces petits signes d
+\begin_inset Quotes ers
+\end_inset
+
+affaissement qu
+\begin_inset Quotes ers
+\end_inset
+
+ont les hommes mis en confiance.
+ Ysaël le vit et serra doucement la main de Leysseen qui lui fit un clin
+ d
+\begin_inset Quotes ers
+\end_inset
+
+œil.
+\end_layout
+
+\begin_layout Standard
+A l
+\begin_inset Quotes ers
+\end_inset
+
+intérieur, la petite porte de bois cloutée refermée, la chaleur tomba pour
+ laisser la place à une agréable fraîcheur, et Elvan remercia Eù de cette
+ pénombre bienfaisante pour ses yeux.
+ Depuis qu
+\begin_inset Quotes ers
+\end_inset
+
+ils étaient sortis, il avait passé quelques nuits à avoir les yeux qui pleuraien
+t, gonflés par trop de lumière.
+ Heureusement, l
+\begin_inset Quotes ers
+\end_inset
+
+onguent de soin appliqué régulièrement avait un peu facilité cette acclimatation.
+ Ysaël et Leysseen semblaient mieux supporter le changement radical de lumière
+ ambiante.
+ Pour le moment, Elvan avait encore du mal avec l
+\begin_inset Quotes ers
+\end_inset
+
+intensité diurne.
+\end_layout
+
+\begin_layout Standard
+Ils franchirent cinq portes, gravirent trente-trois marches et croisèrent
+ onze gardes, pour déboucher dans une petite pièce vide, hormis deux chaises
+ et un banc.
+ Il y avait encore une porte.
+ L
+\begin_inset Quotes ers
+\end_inset
+
+officier, qu
+\begin_inset Quotes ers
+\end_inset
+
+Elvan savait désormais être un capitaine, entra seul dans le bureau.
+ Il en ressortit au bout de quelques minutes pour demander à Ysaël d
+\begin_inset Quotes ers
+\end_inset
+
+entrer, et il resta avec les deux amis.
+ Chacun des entretiens dura presque dix minutes, et Elvan fut le dernier.
+ Le bureau était une petite salle, haute de plafond, couverte d
+\begin_inset Quotes ers
+\end_inset
+
+étagères, elles-mêmes recouvertes de milliers de parchemins, papiers et
+ liasses en tout genre, rangés soigneusement.
+ Au centre, une table, elle-même bondée de piles de papiers et de dossiers.
+ Et derrière cette table, un vieux secrétaire portant des bésicles.
+ Shailiot était son nom.
+\end_layout
+
+\begin_layout Standard
+Shailiot avait vu passer des milliers d
+\begin_inset Quotes ers
+\end_inset
+
+étrangers, des jeunes, comme ceux-là, des «sans-papier »comme il les appelait.
+ La loi exigeait qu
+\begin_inset Quotes ers
+\end_inset
+
+on leur donne un papier d
+\begin_inset Quotes ers
+\end_inset
+
+identité.
+ Résidu des temps anciens, une bonne chose, pensait-il.
+\end_layout
+
+\begin_layout Standard
+- Vos noms, prénoms et nationalité, si vous la connaissez, dit-il en remontant
+ le nez vers Elvan.
+\end_layout
+
+\begin_layout Standard
+- Elvan, je n
+\begin_inset Quotes ers
+\end_inset
+
+ai pas de nom.
+\end_layout
+
+\begin_layout Standard
+- Ce n
+\begin_inset Quotes ers
+\end_inset
+
+est pas grave.
+ Connaissez-vous au moins votre nationalité jeune orphelin.
+\end_layout
+
+\begin_layout Standard
+- Panshaw.
+\end_layout
+
+\begin_layout Standard
+- Quel âge ?
+\end_layout
+
+\begin_layout Standard
+- Dix neuf ans, je crois.
+\end_layout
+
+\begin_layout Standard
+- Savez-vous faire quelque chose, avez-vous un métier ?
+\end_layout
+
+\begin_layout Standard
+Elvan hésita un instant.
+\end_layout
+
+\begin_layout Standard
+- Jidaï-atah.
+ Dit-il doucement.
+\end_layout
+
+\begin_layout Standard
+Shailiot, releva le nez de son papier, et demanda les yeux rivés dans ceux
+ d
+\begin_inset Quotes ers
+\end_inset
+
+Elvan :
+\end_layout
+
+\begin_layout Standard
+- Quelle école ?
+\end_layout
+
+\begin_layout Standard
+- Les trois\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+- Ma question est on-ne-peut plus sérieuse.
+ Ne vous moquez pas de moi jeune Jidaï-atah ? Votre 
+\begin_inset Quotes fld
+\end_inset
+
+profssion
+\begin_inset Quotes frd
+\end_inset
+
+ est déjà suffisamment rare pour être remarquée, il est inutile d'en rajouter.
+ Il faut des années pour maîtriser une école.
+\end_layout
+
+\begin_layout Standard
+- Je ne prétends pas les maîtriser, mais de là où je viens, les frères-parents
+ m
+\begin_inset Quotes ers
+\end_inset
+
+ont enseigné les trois Jidù !
+\end_layout
+
+\begin_layout Standard
+Elvan n
+\begin_inset Quotes ers
+\end_inset
+
+avait pas sourcillé et ses yeux étaient restés dans ceux de Shailiot, il
+ disait la vérité.
+ Après un temps celui-ci replongea dans ses papiers.
+\end_layout
+
+\begin_layout Standard
+- Ne vous fâchez pas jeune homme, mais je devais m
+\begin_inset Quotes ers
+\end_inset
+
+assurer de vos dires.
+ Vous voilà maintenant titulaire de papiers d
+\begin_inset Quotes ers
+\end_inset
+
+identité.
+ Gardez-les précieusement, ils vous aideront à passer les frontières.
+ Vous dépendez maintenant de la législation du Thégérit T
+\begin_inset Quotes ers
+\end_inset
+
+An-T
+\begin_inset Quotes ers
+\end_inset
+
+Aï.
+ Allez et bon courage.
+\end_layout
+
+\begin_layout Standard
+Elvan sortit la mine renfrognée, et au regard d
+\begin_inset Quotes ers
+\end_inset
+
+Ysaël, il sut qu
+\begin_inset Quotes ers
+\end_inset
+
+elle avait entendu son éclat de voix.
+ Ils avaient tous entendu.
+ L
+\begin_inset Quotes ers
+\end_inset
+
+officier était là prêt à les raccompagner au dehors, un léger sourire narquois
+ se dessinait sur ses lèvres.
+ Ysaël devança son frère :
+\end_layout
+
+\begin_layout Standard
+- Connaîtriez-vous une auberge, pas trop chère, mais où l
+\begin_inset Quotes ers
+\end_inset
+
+on y puisse bien dormir et bien manger ?
+\end_layout
+
+\begin_layout Standard
+Elvan voulut intervenir :
+\end_layout
+
+\begin_layout Standard
+- Ysaël, cet officier a autre chose à faire\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+- Le bon prophète, je vais vous y conduire, Jidaï-atah, vous et vos amis.
+\end_layout
+
+\begin_layout Standard
+L'officier eut un sourire énigmatique vers Ysaël et partit devant.
+ Elvan resta un instant perplexe.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+L
+\begin_inset Quotes ers
+\end_inset
+
+officier faisait-il de l
+\begin_inset Quotes ers
+\end_inset
+
+humour ? Etait-il intéressé par Ysaël ?
+\shape default
+ Il lui semblait comprendre la même intention que celle de T
+\begin_inset Quotes ers
+\end_inset
+
+An Acharb, le premier soir.
+ Il savait que sa maîtrise, était rare sur Annwfn, mais depuis qu
+\begin_inset Quotes ers
+\end_inset
+
+il était « sortis » il en prenait chaque jour la mesure.
+ Il se jura d
+\begin_inset Quotes ers
+\end_inset
+
+être désormais plus prudent sur ce sujet.
+\end_layout
+
+\begin_layout Standard
+\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Le bon prophète était une auberge accueillante.
+ Bruyante mais accueillante.
+ L
+\begin_inset Quotes ers
+\end_inset
+
+officier ne s'était pas attardé, il avait glissé un mot à l
+\begin_inset Quotes ers
+\end_inset
+
+aubergiste qui avait acquiescé puis il était reparti.
+ Elvan avait réussi à obtenir deux chambres.
+ 
+\shape italic
+Pas envie de tenir la chandelle
+\shape default
+.
+ Elles étaient petites, confortables mais peu fonctionnelles.
+ Heureusement, elles ne leur coûteraient pas trop chères.
+\end_layout
+
+\begin_layout Standard
+Les trois amis descendirent dans la rue vibrante d
+\begin_inset Quotes ers
+\end_inset
+
+activités.
+ C
+\begin_inset Quotes ers
+\end_inset
+
+était pour eux une explosion de sons, de couleurs, de lumières et de senteurs
+ nouvelles, et cette cacophonie freina leur ardeur.
+ Ysaël était rayonnante.
+ C
+\begin_inset Quotes ers
+\end_inset
+
+était-elle qui avait insisté pour qu
+\begin_inset Quotes ers
+\end_inset
+
+ils sortent de leur auberge.
+\end_layout
+
+\begin_layout Standard
+- On ne va pas rester là jusqu'à la fin des temps ? Leur avait-elle dit.
+ Il nous faudra bien décider de notre prochaine étape et des moyens pour
+ nous y rendre.
+ Elvan essayait de la raisonner en vain.
+\end_layout
+
+\begin_layout Standard
+- Nous venons à peine d'arriver ! Prenons le temps de nous reposer, de visiter.
+ Nous pourrons toujours obtenir des renseignements auprès de l
+\begin_inset Quotes ers
+\end_inset
+
+aubergiste ou l
+\begin_inset Quotes ers
+\end_inset
+
+une de ses serveuses.
+\end_layout
+
+\begin_layout Standard
+- Ne sois pas si timoré ! Leysseen, viendra-tu à la fin ?
+\end_layout
+
+\begin_layout Standard
+- Elvan, allons-y, nous sommes sorti pour voir le monde, non ?
+\end_layout
+
+\begin_layout Standard
+Leysseen regardait son ami avec un petit sourire de connivence pendant qu
+\begin_inset Quotes ers
+\end_inset
+
+Ysaël piaffait d'impatience.
+\end_layout
+
+\begin_layout Standard
+- Par le sang des prophètes ! Que cette ville est immense ! Une fois au
+ bout il nous faudra pouvoir retourner jusqu
+\begin_inset Quotes ers
+\end_inset
+
+ici ! Allons jusqu
+\begin_inset Quotes ers
+\end_inset
+
+à la troisième enceinte, proposa Elvan, de là nous devrions apercevoir la
+ mer.
+\end_layout
+
+\begin_layout Standard
+En fait, il n
+\begin_inset Quotes ers
+\end_inset
+
+en avait aucune idée, mais le rempart lui semblait, tout à coup, une destination
+ suffisamment ambitieuse pour commencer.
+ Ils ne furent pas déçus.
+ Sur le troisième rempart il y avait des passages où s
+\begin_inset Quotes ers
+\end_inset
+
+étalaient de minuscules échoppes provisoires et où l
+\begin_inset Quotes ers
+\end_inset
+
+on pouvait trouver tout ce qui se fait de plus insolite à T
+\begin_inset Quotes ers
+\end_inset
+
+An-T
+\begin_inset Quotes ers
+\end_inset
+
+Aï.
+ Après avoir été arrêté par six marchands de draperies et de soieries, Ysaël
+ fut interpellée encore par une dizaine de bijoutiers et de quincailliers,
+ tous plus accrocheurs les uns que les autres.
+ Mais elle résista.
+ Leysseen se réjouissait de la voir retrouver sa bonne humeur habituelle.
+ Finalement ils aboutirent sur une petite esplanade, bondée de passants,
+ venus eux aussi admirer la capitale royale.
+ A partir de ce point elle descendait régulièrement jusqu
+\begin_inset Quotes ers
+\end_inset
+
+au port et au-delà la mer intérieure.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+C
+\begin_inset Quotes ers
+\end_inset
+
+est magnifique !
+\end_layout
+
+\begin_layout Standard
+Leysseen repensait à toutes ces cartes qu
+\begin_inset Quotes ers
+\end_inset
+
+étalait sans cesse leur censeur.
+ Il avait vu celle de T
+\begin_inset Quotes ers
+\end_inset
+
+An-T
+\begin_inset Quotes ers
+\end_inset
+
+Aï, et il se souvenait maintenant des détails du vieux parchemin ; les trois
+ remparts, le fort à l
+\begin_inset Quotes ers
+\end_inset
+
+ouest, et le palais des «1000 » au-dessus de l
+\begin_inset Quotes ers
+\end_inset
+
+Arsenal\SpecialChar \ldots{}
+ Et là, devant ses yeux s
+\begin_inset Quotes ers
+\end_inset
+
+étalait la plus grande ville d
+\begin_inset Quotes ers
+\end_inset
+
+Annwfn, l
+\begin_inset Quotes ers
+\end_inset
+
+unique cité de Chanseth.
+ L
+\begin_inset Quotes ers
+\end_inset
+
+unique port d
+\begin_inset Quotes ers
+\end_inset
+
+un royaume qui comprenait pourtant plus de 14000 km de côtes.
+ Mais, Chanseth était le royaume du désert, et la mer et ses courants froids
+ en étaient en grande partie responsables.
+ Aucun Sethiens n
+\begin_inset Quotes ers
+\end_inset
+
+aimait vraiment la mer.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Mais cette ville
+\shape default
+\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Il n
+\begin_inset Quotes ers
+\end_inset
+
+aurait jamais pu croire qu
+\begin_inset Quotes ers
+\end_inset
+
+elle fut aussi grande\SpecialChar \ldots{}
+ Et l
+\begin_inset Quotes ers
+\end_inset
+
+arsenal, il est au moins égal au tiers de cette cité.
+ 
+\shape italic
+Combien sont-ils ?
+\shape default
+ Ysaël se cala contre son épaule et Elvan s
+\begin_inset Quotes ers
+\end_inset
+
+appuya sur un créneau et contempla la baie.
+ On voyait des navires entrer au port et d
+\begin_inset Quotes ers
+\end_inset
+
+autres, plus rares, prendre le large vers des destinations lointaines comme
+ Panshaw, Llarkno ou plus loin encore : Nihel.
+ Les milliers de mâts rangés côte à côte formaient une forêt dansante au
+ grès des flots mouvants.
+\end_layout
+
+\begin_layout Standard
+Ils contemplèrent ainsi la grande baie et la suractivité portuaire de T
+\begin_inset Quotes ers
+\end_inset
+
+An-T
+\begin_inset Quotes ers
+\end_inset
+
+Aï pendant des heures, en silence.
+ Quand leurs rêveries s
+\begin_inset Quotes ers
+\end_inset
+
+effilochèrent c
+\begin_inset Quotes ers
+\end_inset
+
+est pour laisser place aux heures tièdes de la fin d
+\begin_inset Quotes ers
+\end_inset
+
+après-midi.
+ Les derniers rayons déclinants de Krill nimbaient les murailles d
+\begin_inset Quotes ers
+\end_inset
+
+une aura d
+\begin_inset Quotes ers
+\end_inset
+
+or et d
+\begin_inset Quotes ers
+\end_inset
+
+ambre, l
+\begin_inset Quotes ers
+\end_inset
+
+horizon était en feu.
+ Elvan avait les yeux imbibés de larmes de douleur.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+C'est irréel !\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Le retour jusqu
+\begin_inset Quotes ers
+\end_inset
+
+à la taverne « du Bon prophète » fût silencieux, encore plein des émerveillement
+s de la journée.
+ La ville battait encore d
+\begin_inset Quotes ers
+\end_inset
+
+un cœur puissant, et les ruelles ocres étaient remplies de clameurs et de
+ passants.
+ Un groupe de soldats passa non loin des trois jeunes gens, se frayant avec
+ peine un passage dans cette mer humaine.
+ Leysseen avait déjà repéré les uniformes ternes et gris constellés de poussière
+ qui ne se déplaçaient jamais à moins de cinq.
+ Tous les visages semblaient identiques, carrés, gris, cheveux ras avec
+ pour signe de ralliement un fin bandeau d
+\begin_inset Quotes ers
+\end_inset
+
+acier autour du front, au-dessus de l'opale noire.
+ Il voyait dans leurs yeux ce qu
+\begin_inset Quotes ers
+\end_inset
+
+il avait déjà vu chez ceux du désert.
+ Ce qu
+\begin_inset Quotes ers
+\end_inset
+
+il avait d
+\begin_inset Quotes ers
+\end_inset
+
+abord pris pour de l
+\begin_inset Quotes ers
+\end_inset
+
+absence, était, il en était certain maintenant, une froide concentration,
+ une conscience aiguisée à l
+\begin_inset Quotes ers
+\end_inset
+
+extrême.
+ S
+\begin_inset Quotes ers
+\end_inset
+
+il faut prendre une vie, ils n
+\begin_inset Quotes ers
+\end_inset
+
+hésiteraient pas.
+ Ils n
+\begin_inset Quotes ers
+\end_inset
+
+en n'ont pas le pouvoir.
+ C
+\begin_inset Quotes ers
+\end_inset
+
+était comme si ces yeux pouvaient voir, au-delà des dunes, au-delà des apparence
+s calmes et infinies, ce que le désert recelait en fait de mirages et de
+ faux-semblants.
+\end_layout
+
+\begin_layout Standard
+L
+\begin_inset Quotes ers
+\end_inset
+
+odeur âcre et forte des fumées mélangée aux volutes lourdes émanant des
+ cuisines agressa nos trois voyageurs à leur entrée dans l
+\begin_inset Quotes ers
+\end_inset
+
+auberge.
+ Ysaël fût bousculée par une serveuse pressée qui balbutia des excuses sans
+ s
+\begin_inset Quotes ers
+\end_inset
+
+arrêter.
+ Elvan choisit un carré de table encore libre et fit signe à ses amis de
+ s
+\begin_inset Quotes ers
+\end_inset
+
+asseoir.
+ Ils commandèrent, non sans hésiter, une bière et du lard fumé.
+ Le bruit sans être assourdissant était quand même bien au-dessus des normes
+ auxquelles les jeunes avaient été habituées.
+ Silencieux, leurs regards courraient de tables en tables, de rires en éclats
+ de voix.
+ Tout était source d'émerveillement, de curiosité et leur esprit en éveil
+ tentait d'enregistrer les moindres détails, qui une expression type, qui
+ une accolade ou encore des nouvelles venues du port et au-delà des autres
+ royaumes\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Où va-t-on aller ? Que va-t-on faire maintenant ?\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Comme pour répondre aux questions d'Elvan, Leysseen rompit le premier le
+ silence.
+\end_layout
+
+\begin_layout Standard
+- Il va nous falloir travailler.
+\end_layout
+
+\begin_layout Standard
+- Tu as déjà une idée ? Lui demanda Ysaël.
+\end_layout
+
+\begin_layout Standard
+- Pas la moindre...
+\end_layout
+
+\begin_layout Standard
+- Je pensais que nous irions à Panshaw.
+ La réflexion d'Elvan vola au secours de Leysseen qui renchérit.
+\end_layout
+
+\begin_layout Standard
+- Le climat là bas est plus doux qu'ici et vous êtes tous les deux originaires
+ de « la terre du milieu ».
+\end_layout
+
+\begin_layout Standard
+- Je ne sais pas si nous avons assez d'argent pour nous y rendre ? Ysaël
+ avait baissé la voix en évoquant leur pécule.
+ Leysseen interpella une serveuse.
+\end_layout
+
+\begin_layout Standard
+- Combien de jours pour aller à Panshaw, mademoiselle ?
+\end_layout
+
+\begin_layout Standard
+- Une quinzaine, je crois...
+\end_layout
+
+\begin_layout Standard
+Elle repartit aussitôt, non sans avoir lancé un regard charmeur au ténébreux
+ Leysseen qui grimaça un sourire gêné.
+ Ysaël le fit disparaître d'un coup de coude.
+\end_layout
+
+\begin_layout Standard
+- Te gêne pas surtout ! Demande lui à quelle heure elle finit pendant qu'on
+ y est !
+\end_layout
+
+\begin_layout Standard
+- Je...
+ Mais...
+ 
+\end_layout
+
+\begin_layout Standard
+- C'est toujours pareil avec vous les hommes.
+ Il suffit qu'une jolie paire de seins vous tourne autour et vous perdez
+ tout sens critique.
+\end_layout
+
+\begin_layout Standard
+- Et vous les femmes, pour que vous perdiez tout sens de l'humour et de
+ la mesure.
+ Elvan éclata de rire devant la répartie de son ami et la moue dédaigneuse
+ de sa soeur.
+ Il se reprit et ajouta :
+\end_layout
+
+\begin_layout Standard
+- Je ne sais pas très bien encore ce que je peux faire, ou ne pas faire.
+ Mais j'ai envie de voir un peu plus le monde.
+ Profitons d'une caravane qui se rendrait à Panshaw.
+ Nous savons déjà comment nous y impliquer, avec un peu de chance, non seulement
+ nous ne dépenseront pas plus, mais nous pourrions bien gagner un peu d'argent.
+\end_layout
+
+\begin_layout Standard
+- Avec beaucoup de chance...
+ Un long silence suivit où chacun imaginait ce nouveau voyage vers une autre
+ terre inconnue.
+\end_layout
+
+\begin_layout Standard
+- Vous pensez à eux ? La question d'Ysaël les pris au dépourvu, mais ils
+ comprirent immédiatement de quoi elle parlait.
+ L
+\begin_inset Quotes ers
+\end_inset
+
+émotion montait dans ses yeux.
+ Elle continua.
+\end_layout
+
+\begin_layout Standard
+- Certains soirs j
+\begin_inset Quotes ers
+\end_inset
+
+y pense.
+ Mais, c
+\begin_inset Quotes ers
+\end_inset
+
+est comme si c
+\begin_inset Quotes ers
+\end_inset
+
+était il y a longtemps.
+ Je...
+ Vous croyez qu
+\begin_inset Quotes ers
+\end_inset
+
+on va les oublier ?
+\end_layout
+
+\begin_layout Standard
+Leysseen vola à son secours.
+\end_layout
+
+\begin_layout Standard
+- Ysaël, il n'est pas question de les oublier !
+\end_layout
+
+\begin_layout Standard
+- C'est normal de ne pas trop y penser.
+ Enfin, je crois.
+ Dit Elvan.
+\end_layout
+
+\begin_layout Standard
+Leur conversation fut interrompue par l'arrivée d'un homme d'une quarantaine
+ portant l'opale rouge.
+ 
+\shape italic
+\color black
+Un prêtre ?\SpecialChar \ldots{}
+ 
+\end_layout
+
+\begin_layout Standard
+- Puis-je m'asseoir à votre table, jeunes gens ? Le ton était affable, la
+ voix traînante avec un léger accent chantant.
+ En guise de réponse les trois jeunes eurent un haussement d'épaule commun.
+\end_layout
+
+\begin_layout Standard
+- Vous venez d'arriver ici ? Vous semblez un peu perdu...
+ Devant l'opale rouge autant que l'amabilité du prêtre-urbain les trois
+ amis se détendirent et, une fois encore, Elvan pris la parole en premier.
+\end_layout
+
+\begin_layout Standard
+- Nous sommes de passage et c'est effectivement la première fois que nous
+ voyons cette cité.
+ Peut-être pourriez-vous nous aider à mieux comprendre son fonctionnement.
+\end_layout
+
+\begin_layout Standard
+- Avec plaisir ! Dites moi, que voulez-vous savoir ?
+\end_layout
+
+\begin_layout Standard
+Les trois amis avaient été éduqués pendant plus de quinze ans dans le respect
+ des croyances et même au-delà dans la foi d'Eù.
+ Le clergé baferiste ne leur était pas étranger et le rôle de guide, de
+ conseiller ou simplement d'oreille attentive des prêtres leur avait été
+ longuement expliqué par les frères-parents.
+ Rassurés et ravis de cette aubaine, nos jeunes voyageurs dévorèrent de
+ questions le prêtre qu'ils apprirent à connaître sous le nom de M'Alvean.
+ Lui même était Sethien d'origine et depuis cinq ans prêtre urbain du quartier
+ « des boutiquiers », ici à T'An-T'Aï.
+\end_layout
+
+\begin_layout Standard
+- Nous sommes douze prêtres-urbains répartis sur les différents quartiers
+ de la ville.
+ Nous dépendons tous de trois exorcistes qui eux-mêmes sont sous la sage
+ direction du Grand exorciste de Chanseth.
+\end_layout
+
+\begin_layout Standard
+M 'Alvean semblait s'enorgueillir de côtoyer ainsi l'un des plus grand sage
+ des royaumes.
+\end_layout
+
+\begin_layout Standard
+- La voix d'Eù semble bien écoutée à Chanseth ? La question n'était pas
+ franche de la part de Leysseen.
+\end_layout
+
+\begin_layout Standard
+- Oui ! L'enthousiasme de M'Alvean redoubla.
+ Je crois pouvoir dire que plus de quatre cinquième de la population de
+ la cité porte l'opale noire.
+\end_layout
+
+\begin_layout Standard
+- Et dans les autres Thégérits ?
+\end_layout
+
+\begin_layout Standard
+M'Alvean sembla troublé l'espace d'un instant par la question du jeune homme.
+ Leyssen ajouta :
+\end_layout
+
+\begin_layout Standard
+- Je vous demande, parce que nous arrivons d'une caravane du désert et je
+ ne crois pas avoir vu plus de deux ou trois opales.
+\end_layout
+
+\begin_layout Standard
+Le prêtre passa nerveusement la langue sur sa lèvre supérieure.
+\end_layout
+
+\begin_layout Standard
+- Les statistiques sont faussées...
+ Les Thégérits sont pour la grande majorité convertis, mais ils ne portent
+ que rarement l
+\begin_inset Quotes ers
+\end_inset
+
+opale.
+ Mais chaque Thégérit accueille un prêtre-paysan.
+ Au moins un\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Sa voix avait fini en murmure et il semblait plonger dans ses pensées.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Qu'est-ce que tu ne nous dis pas prêtre ?
+\end_layout
+
+\begin_layout Standard
+Leysseen l'observait attentivement.
+\end_layout
+
+\begin_layout Standard
+- Si le prophète était à nouveau parmi nous, il en serait autrement\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Ses paroles étaient arrivées doucement, comme sorties d
+\begin_inset Quotes ers
+\end_inset
+
+un rêve.
+ Une pensée émise à voix basse, presque un souhait inaudible mais qui fixa
+ toute l'attention d'Elvan, comme frappé par un fouet.
+ Les trois amis étaient figés dans l
+\begin_inset Quotes ers
+\end_inset
+
+attente d'une suite.
+ Aucun d'eux n
+\begin_inset Quotes ers
+\end_inset
+
+osaient intervenir, poser une question, ou simplement relancer la conversation
+ de peur que les confidences de M
+\begin_inset Quotes ers
+\end_inset
+
+Alvean ne s
+\begin_inset Quotes ers
+\end_inset
+
+arrêtent.
+ Celui-ci se reprit et en se raclant la gorge il se leva.
+\end_layout
+
+\begin_layout Standard
+- Je vous remercie chers amis de cette agréable compagnie.
+ J'espère que votre route sera bonne.
+ Oubliez ce que je viens de dire.
+ Ce sont les élucubrations d'un idéaliste.
+\end_layout
+
+\begin_layout Standard
+Elvan se leva aussitôt, il ne pouvait pas le laisser partir.
+ 
+\shape italic
+Pas comme ça ! Pas après ça ! Eù ! Il m'en faut plus...
+\end_layout
+
+\begin_layout Standard
+- Restez ! Le prophète, Ob-Nekobby ? C'est de lui dont vous parliez, c'est
+ ça ? Pourquoi\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+- Oui, mais rien.
+ Nous ne sommes pas autorisés à en parler avec\SpecialChar \ldots{}
+ Ce n'est rien, je vous assure.
+ Oubliez ces remarques idiotes.
+ Il y a longtemps qu'il s'est retiré.
+ Il est peut-être mort à l'heure qu'il est.
+\end_layout
+
+\begin_layout Standard
+Son rire timide sonna faux.
+ Il balbutia encore quelques excuses, prononça des vœux et une bénédiction
+ et se retira en laissant Elvan pantois.
+ Leysseen était tout aussi surpris que son ami de cette sortie précipitée.
+ 
+\shape italic
+Décidément, l'église n'est pas prête de me convaincre.
+ Pourquoi faut-il toujours qu'ils s'entourent de mystères, de \SpecialChar \ldots{}
+ fadaises !
+\shape default
+ Il regarda Elvan et crut voir en lui de la détresse.
+ 
+\shape italic
+Je t'en prie, pas toi ! Tu vaux mieux que ça.
+\end_layout
+
+\begin_layout Standard
+- Elvan, ça va ?
+\end_layout
+
+\begin_layout Standard
+- T'en fais pas pour ça...
+ Leysseen, je connais ton point de vue sur tout ça.
+ Nous ne sommes pas d'accord.
+ Je ne t'en tiens pas rigueur, mais laisse moi juger de qui est important
+ pour moi.
+\end_layout
+
+\begin_layout Standard
+Ysaël se leva à son tour et ajouta à l'encontre de Leysseen.
+\end_layout
+
+\begin_layout Standard
+- Je vais me coucher.
+ Tu viens ?
+\end_layout
+
+\begin_layout Standard
+Après une brève hésitation, le jeune homme se leva, posa une main sur l'épaule
+ d'Elvan en passant et suivit le doux parfum de caramel qui montait vers
+ leur chambre.
+ Elvan resta dans la salle commune plongé dans des pensées confuses.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Ob-Nekobby...
+ S'il était encore en vie.
+ Bien-sûr ! Son départ de la scène publique...
+ C'était quand déjà ? Huit ou dix ans ?
+\end_layout
+
+\begin_layout Standard
+Le grand maître et lui avait eu une longue conversation à cette époque sur
+ les implications du refus de rester dans le clergé régulier et du départ
+ du dernier disciple de Sulca.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Le cherchent-ils ? Savent-ils seulement où il est ?...
+ 
+\shape default
+Ces pensées vagabondes durèrent tard dans la soirée.
+ Quand il se décida à aller se coucher, la salle était presque vide.
+ Ça et là quelques retardataires traînaient leur ivresse et leur solitude
+ au fond de pichets de vinasses.
+\end_layout
+
+\begin_layout Subparagraph*
+\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+La silhouette encapuchonnée pénétra dans la demeure par une porte dérobée.
+ Elle suivit un petit couloir faiblement éclairé, passa cinq portes et grimpa
+ vingt-et-une marches avant de tirer un levier que dissimulait une torche
+ éteinte.
+ Le pan de mur se déroba pour donner sur un bureau cossu richement orné.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Un peu trop ostentatoire
+\shape default
+ se dit elle.
+\end_layout
+
+\begin_layout Standard
+- Alors ?
+\end_layout
+
+\begin_layout Standard
+L
+\begin_inset Quotes ers
+\end_inset
+
+homme qui venait de parler était assis sur un large fauteuil en cuir.
+ Il tournait les pages d
+\begin_inset Quotes ers
+\end_inset
+
+un petit livre avec ses doigts remplis de bagues.
+ Âgé d
+\begin_inset Quotes ers
+\end_inset
+
+une soixantaine au moins, le teint était olivâtre et les traits tirés.
+ Au fond d
+\begin_inset Quotes ers
+\end_inset
+
+orbites profondes deux petits yeux extrêmement clairs scrutaient le nouveau
+ venu.
+ La voix était profonde et grave d'une surprenante douceur comparée au regard
+ d'acier qu'il dardait sur l'homme qui défit son capuchon avant de dire :
+\end_layout
+
+\begin_layout Standard
+- C
+\begin_inset Quotes ers
+\end_inset
+
+est fait.
+ Comme il nous l
+\begin_inset Quotes ers
+\end_inset
+
+avait dit, le simple fait d'évoquer son nom et il s
+\begin_inset Quotes ers
+\end_inset
+
+est enflammé.
+ Je suis prêt à parier que dans les jours qui suivent il se rendra à Panshaw
+ pour en savoir plus.
+\end_layout
+
+\begin_layout Standard
+- Ne croyez-vous pas qu
+\begin_inset Quotes ers
+\end_inset
+
+il cherchera à vous retrouver ? Pour vous poser quelques questions.
+\end_layout
+
+\begin_layout Standard
+- C
+\begin_inset Quotes ers
+\end_inset
+
+est possible.
+\end_layout
+
+\begin_layout Standard
+La question sembla le laisser songeur, puis il ajouta :
+\end_layout
+
+\begin_layout Standard
+- Je fais surveiller les caravanes en partance pour Panshaw.
+ S
+\begin_inset Quotes ers
+\end_inset
+
+il s
+\begin_inset Quotes ers
+\end_inset
+
+en approche je le saurai\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+- Et vous m
+\begin_inset Quotes ers
+\end_inset
+
+en informerez.
+ Les autres ?
+\end_layout
+
+\begin_layout Standard
+- Ils le suivront je pense.
+ Le garçon est retors mais il suivra.
+\end_layout
+
+\begin_layout Standard
+- Bien.
+ Des ennuis en perspectives, j'en fais le pari\SpecialChar \ldots{}
+ Je pressens d
+\begin_inset Quotes ers
+\end_inset
+
+autres forces.
+ Attendons\SpecialChar \ldots{}
+Vous pouvez y aller, restez extrêmement discret et n
+\begin_inset Quotes ers
+\end_inset
+
+hésitez pas à le protéger\SpecialChar \ldots{}
+ de lui même s
+\begin_inset Quotes ers
+\end_inset
+
+il le faut.
+\end_layout
+
+\begin_layout Standard
+M
+\begin_inset Quotes ers
+\end_inset
+
+Alvean salua son supérieur et reparti par le même chemin qu
+\begin_inset Quotes ers
+\end_inset
+
+à son arrivée.
+\end_layout
+
+\begin_layout Chapter
+Voyages
+\end_layout
+
+\begin_layout Quotation
+
+\size footnotesize
+\begin_inset Quotes fld
+\end_inset
+
+Au commencement nous étions vides.
+ 
+\end_layout
+
+\begin_layout Quotation
+
+\size footnotesize
+Ignorants de toutes choses.
+ 
+\end_layout
+
+\begin_layout Quotation
+
+\size footnotesize
+Nous restions étrangers à la Puissance qui réside en tous lieux.
+ 
+\end_layout
+
+\begin_layout Quotation
+
+\size footnotesize
+Et en tout temps.
+ 
+\end_layout
+
+\begin_layout Quotation
+
+\size footnotesize
+Voici la Puissance 
+\end_layout
+
+\begin_layout Quotation
+
+\size footnotesize
+Elle nous apporte la joie 
+\end_layout
+
+\begin_layout Quotation
+
+\size footnotesize
+Elle éveille l'âme et disperse les doutes 
+\end_layout
+
+\begin_layout Quotation
+
+\size footnotesize
+En ces mondes nous périssons.
+ 
+\end_layout
+
+\begin_layout Quotation
+
+\size footnotesize
+Par la puissance, nous survivons.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\size footnotesize
+Extrait d'une prière des frères-abîmes
+\end_layout
+
+\begin_layout Standard
+Lorsqu'Ysaël s'éveilla, Krill était déjà bien au-delà de l'horizon et le
+ murmure fiévreux de la ville emplissait la petite chambre.
+ Elle aperçut Leysseen qui s'entrainait, comme tous les matins.
+ A travers les persiennes, les rayons de lumière dansaient sur le corps
+ athlétique du jeune homme.
+ Elle eut un léger frisson de désir, s'étira et se redressa sur le lit pour
+ mieux contempler celui qui partageait sa couche depuis 2 ans.
+ Elle s'interrogea, amusée, sur ce qu'elle aimait le plus chez lui ; Ses
+ grands yeux noirs en amende, ses fesses rebondies...
+ 
+\shape italic
+Non, ses mains bien sûr
+\shape default
+.
+ Elle réprima un délicieux tremblement à la pensée de ses caresses d'une
+ douceur exquise.
+\end_layout
+
+\begin_layout Standard
+Leysseen se déplaçait lentement, au ralenti, les yeux ouverts, perdus dans
+ un combat imaginaire répété des centaines de fois.
+ Rien ne prolongeait son bras, mais il pouvait sentir l'épée comme si elle
+ était dans sa main.
+ Son poids, sa flexibilité, sa résistance, l'air qu'elle déplaçait, tout
+ son être vibrait à l'unisson de cette arme imaginaire.
+ C'est ainsi qu'il avait appris l'art de l'épée.
+ C'est ainsi qu'il le perpétuait.
+ Il sentit le regard de braise dans son dos, modifia ses appuis et en un
+ éclair il abatit l'épée sur la tête d'Ysaël.
+\end_layout
+
+\begin_layout Standard
+- Tu es morte.
+ Lui dit-il en penchant légèrement la tête d'un air faussement désolé.
+\end_layout
+
+\begin_layout Standard
+- Tu n'as pas d'arme, mon amour.
+\end_layout
+
+\begin_layout Standard
+- Si j'en avais une, tu serais morte.
+\end_layout
+
+\begin_layout Standard
+- Si tu en avais une, je me serais esquivée.
+ Et j'espère surtout que tu n'aurais pas porté ce coup.
+\end_layout
+
+\begin_layout Standard
+Elle fit une moue interrogatrice et, peut-être, un brin réprobatrice.
+ Leysseen éclata d'un rire franc qui la désarma.
+\end_layout
+
+\begin_layout Standard
+- Allons déjeuner ma belle, ces exercices m'ont ouvert l'appétit.
+\end_layout
+
+\begin_layout Standard
+Ils descendirent quelques minutes plus tard et rejoignirentn Elvan qui sirotait
+ un café fumant.
+ Il avait visiblement déjà englouti plusieurs tartines de beurre et de miel.
+ Quand ils s'approchèrent, il leur adressaun sourire franc et sans plus
+ attendre déclara.
+\end_layout
+
+\begin_layout Standard
+- Nous devrions partir pour Panshaw.
+ Leysseen, tu crois qu'une caravanne pourrait nous prendre ?
+\end_layout
+
+\begin_layout Standard
+Ysaël et Leysseen échangèrent un bref regard surpris et tout en s'asseyant,
+ le jeune homme répondit.
+\end_layout
+
+\begin_layout Standard
+- Je ne sais pas...
+ Sans doute.
+ On peut prendre le temps de déjeuner, avant ?
+\end_layout
+
+\begin_layout Standard
+- Bien sûr ! Et puis, je neux pas vous imposer quoique ce soit...
+ Disons que suite à la conversation d'hier soir, je pensais...
+\end_layout
+
+\begin_layout Standard
+Elvan bredoullait quand, son ami lui lança un sourire moqueur.
+ Il stoppa son discours et ajouta.
+\end_layout
+
+\begin_layout Standard
+- Oui.
+ Déjeunons.
+ 
+\shape italic
+Je me fais avoir à chaque fois
+\shape default
+.
+ Cette pensée l'amusa.
+ Il se réfugia derrière son bol de café.
+\end_layout
+
+\begin_layout Standard
+La salle à manger de l'auberge avait désemplie depuis la veille, mais il
+ restait toujours quelques voyageurs qui profitaient de la langueur sethienne.
+ A moins que ce ne soit de la serveuse et son déhanché somptueux.
+ Elvan rougit quand son regard croisa celui de la jeune femme.
+ Celle-ci s'était retournée inopinément alors que les yeux du jeune homme
+ tardaient un peu trop sur elle.
+ Il faillit s'étouffer avec son café et Ysaël pouffa.
+\end_layout
+
+\begin_layout Subparagraph*
+\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Le grand oeil était presque à son zénith quand les jeunes gens arrivèrent
+ aux caravansérails.
+ Ils ne savaient pas très bien par quel bout s'y prendre, et leur hésitation
+ à l'entrée de la grande arche qui marquait le domaine des caravaniers interpell
+a un marchand.
+ Alors qu'il semblait en grande conversation avec un ami, ou peut-être un
+ client, il s'interompit et avanca vers eux le sourire avenant\SpecialChar \ldots{}
+ 
+\end_layout
+
+\begin_layout Standard
+- Que les sables vous protègent jeunes amis.
+\end_layout
+
+\begin_layout Standard
+- Ils nous protègent tous.
+ Répondit Leysseen qui prit de court ses amis.
+ Il ne laissa pas le loisir à l'homme d'enchaîner.
+ 
+\end_layout
+
+\begin_layout Standard
+- Nous cherchons une caravane qui se rendrait à Panshaw ou qui s'en approcherait.
+ Nous pouvons travailler pour payer notre place.
+\end_layout
+
+\begin_layout Standard
+- Bien entendu jeune homme.
+ Le ton du marchand s'était fait plus trainant.
+ Quand souhaiteriez-vous partir ?
+\end_layout
+
+\begin_layout Standard
+- Dès que possible.
+\end_layout
+
+\begin_layout Standard
+- Bien entendu.
+ Je connais un homme qui doit partir bientôt pour la Terre du milieu.
+ Sa caravane est déjà sortie de T'An-T'Aï mais elle campe non loin de la
+ porte Est.
+ Ce serait un honneur pour moi de vous y conduire, malheureusement des affaires
+ urgentes requièrent ma présence dans ces parages...
+\end_layout
+
+\begin_layout Standard
+- Nous comprenons.
+ Merci de votre amabilité et du renseignement.
+\end_layout
+
+\begin_layout Standard
+- Que les sables vous protègent.
+ Ajouta Elvan, alors que Leysseen tournait déjà le dos au marchand.
+\end_layout
+
+\begin_layout Standard
+Après quelques pas, Elvan interpella son ami.
+\end_layout
+
+\begin_layout Standard
+- Qu'est-ce qu'il t'a fait ce gars là ?
+\end_layout
+
+\begin_layout Standard
+- Rien.
+ Je n'aime pas les cajoleurs.
+ Ils cachent toujours leurs vraies intentions.
+ Et cet homme et arrivé vers nous un peu trop rapidement.
+\end_layout
+
+\begin_layout Standard
+- C'est un marchand, il espérait sans doute simplement...
+\end_layout
+
+\begin_layout Standard
+- C'est bien ce que je dis.
+ Il espérait autre chose.
+\end_layout
+
+\begin_layout Standard
+- Peut-être, mais tu ne lui as même pas laissé le temps d'en parler.
+\end_layout
+
+\begin_layout Standard
+Ysaël intervint, même si aucun des deux jeunes gens ne montraient des signes
+ de colère montante.
+\end_layout
+
+\begin_layout Standard
+- On s'en moque ! Non ? Rendons nous à la sortie Est de la ville et voyons
+ s'il nous a dit la vérité.
+\end_layout
+
+\begin_layout Standard
+Pourquoi nous aurait-il menti ? Se dit Elvan.
+ Néanmoins, ils arrètèrent leur conversation et partirent d'un pas ferme
+ vers l'est.
+ S'ils avaient été moins préocupés par cette ridicule histoire, peut-être
+ auraient-ils aperçu un homme appuyé dos sur un mur, le visage dissimulé
+ sous un capuchon du désert et qui semblait incongru dans la scène.
+ Peut-être l'auraient-ils vu se redresser et les suivre, ou bien partait-il
+ simplement dans la même direction qu'eux.
+ Mais, ils ne remarquèrent rien de tout cela, ni même qu'un autre homme
+ semblablement acoutré approcha le marchand et sembla l'interroger.
+ Les jeunes gens, les inconnus et le marchand se fondirent dans le tumulte
+ grouillant de la grande cité, reine du désert.
+\end_layout
+
+\begin_layout Subparagraph*
+\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Ashton enfila son lourd manteau de cuir doublé, avala d'un trait le fond
+ de fine qui restait dans un petit verre et quitta la douceur de sa cabine
+ pour sortir dans le froid mordant du pont.
+ Le navire filait porté par les vents au dessus des terres labourées du
+ Rojahrn.
+ Sa structure modifiée par le Jidaï-atah permettait au bateau déchapper
+ à la pesanteur.
+ Bien-sûr, cette modification n'était que provisoire et nécessitait la concentra
+tion totale du jeteur de sorts.
+ Toutes les deux heures le navire redescendait et faisait une pause, au
+ milieu des champs.
+ L'équipage en profitait alors pour nettoyer le dessous de la coque ou pour
+ charger de nouveaux passagers tous plus importants les unsque les autres.
+ Car ce type de vaisseau était rare.
+ Ce qui le rendait rare était bien entendu la présence du Jidaï-atah.
+ Ce navire avait été affrêté depuis Derach-Ach, la capitale, et se rendait
+ à Asa-Keen, l'un des plus grosses cités des Marches, au nord de Panshaw.
+\end_layout
+
+\begin_layout Standard
+Alors qu'il arpentait le pont pour remonter vers la poupe, Ashton se demandait
+ encore pourquoi l'envoyer, lui, si loin.
+ Pourquoi pas un officier du coin ? Il devait bien y avoir des guetteurs
+ qualifiés sur place.
+ Il ressortit la lettre reçu la veille et la relut calmement acoudé au bastingua
+ge.
+ Une fois fait, il replia soigneusement la missive et la rangea dans un
+ plis de sa manche, puis il laissa errer son regard vers les nuages qu'il
+ pouvait presque toucher.
+ 
+\shape italic
+Soyez rapide et discret...
+ Pour qui ? Quelle discrétion pouvait-on apporter à un meurtre ? Un meurtre
+ dans une auberge qui plus est.
+ J'espère qu'ils ont tout laissé en place.
+ S'ils ont déplacés le moindre objet ou pire, le corps, ça va être la croix
+ et la bannière pour reconstituer quoique ce soit
+\shape default
+.
+\end_layout
+
+\begin_layout Standard
+- Tout va bien guetteur ? Ashton se retourna pour répondre au lieutenant
+ qui venait de lui adresser la parole.
+\end_layout
+
+\begin_layout Standard
+- Très bien, lieutenant...
+\end_layout
+
+\begin_layout Standard
+- Ametra, monsieur.
+\end_layout
+
+\begin_layout Standard
+- Lieutenant Ametra.
+ Nous avançons vite, dites moi.
+\end_layout
+
+\begin_layout Standard
+- Oui monsieur, le capitaine est confiannt.
+ Les vents sont favorables et le Faiseur de sort est en forme.
+\end_layout
+
+\begin_layout Standard
+- Tant mieux.
+ J'avoue que ça m'ennuirait de mourir brutalement quelques centaines de
+ mètres plus bas.
+\end_layout
+
+\begin_layout Standard
+Le jeune lieutenant rit mal à l'aise.
+\end_layout
+
+\begin_layout Standard
+- Oh ! Il y a peu de risque vous savez ?!
+\end_layout
+
+\begin_layout Standard
+- Je sais.
+ Dites moi, quand le capitaine pense-t-il que nous arriverons ?
+\end_layout
+
+\begin_layout Standard
+- Demain soir, peut-être plus tôt dans l'après midi si le rythme est maintenu.
+\end_layout
+
+\begin_layout Standard
+- Merci.
+ Sur ce Ashton se retourna vers 
+\begin_inset Quotes fld
+\end_inset
+
+le large
+\begin_inset Quotes frd
+\end_inset
+
+ signifiant ainsi que la conversation étéit terminée.
+ Ametra fit demi-tour et retourna près du barreur.
+ 
+\shape italic
+Demain soir ! J'espère vraiment qu'ils n'auront touchés à rien
+\shape default
+.
+\end_layout
+
+\begin_layout Subparagraph*
+\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Lorsqu'elle pénétra dans la vieille auberge, tous les visages se tournèrent
+ vers elle, le brouha-ha s'arrèta, même la serveuse habituée à tout marqua
+ une pause et dévisagea la cavalière.
+ Lauranna défit tranquilement son lourd manteau de voyage et dégagea sa
+ longue chevelure blonde.
+ L'effet fut des plus efficace.
+ Tous les hommes avaient retenus leur souffle et plus aucun ne songeait
+ au verre ou à l'assiette qui se tenait devant lui.
+ La serveuse marmonna une excuse et osa s'approcher.
+\end_layout
+
+\begin_layout Standard
+- Bonsoir.
+ Fit Lauranna.
+ Puis-je disposer d'une chambre et d'un repas chaud ?
+\end_layout
+
+\begin_layout Standard
+- Bien entendu Vot' seigneurie.
+ L'homme qui venait de s'interposer entre la serveuse et Lauranna était
+ rougeaud.
+ Il devait être jovial et sans doute afable en temps ordinaire.
+ Là il était obséquieux.
+ 
+\end_layout
+
+\begin_layout Standard
+- Installez-vous où vous voulez.
+ Que désirez-vous manger ?
+\end_layout
+
+\begin_layout Standard
+- Que pouvez-vous me servir ?
+\end_layout
+
+\begin_layout Standard
+- J'ai un excellent cuissot que je peux remettre à rôtir si vous n'êtes
+ pas trop pressée, accompagné d'une potée de légumes.
+ 
+\end_layout
+
+\begin_layout Standard
+- Très bien.
+ Indiquez moi ma chambre.
+ Je vais y poser mes affaires avant de redescndre manger.
+\end_layout
+
+\begin_layout Standard
+- A vot'service...
+ 
+\end_layout
+
+\begin_layout Standard
+Alors qu'elle s'avançait vers l'escalier sous les regards encore médusés,
+ elle ajouta.
+\end_layout
+
+\begin_layout Standard
+- J'oubliais.
+ Quelqu'un peut-il s'ocupper de ma monture ? je l'ai laissée à l'extérieur.
+\end_layout
+
+\begin_layout Standard
+- Tout de suite vot'seigneurie.
+\end_layout
+
+\begin_layout Standard
+L'aubergiste interpela un jeune garçon qui taillait un bout de bois près
+ du bar.
+ Après lui avoir donné ses consignes et surtout l'état de son dos et de
+ son postérieur s'il s'avisait de 
+\begin_inset Quotes fld
+\end_inset
+
+saloper
+\begin_inset Quotes frd
+\end_inset
+
+ son boulot, il conduisit Lauranna jusqu'à sa chambre.
+ Dès qu'il eut ouvert la porte, elle entra et en refermant sur l'aubergiste
+ lui dit.
+\end_layout
+
+\begin_layout Standard
+- Je descendrai dans une heure.
+ Que mon repas soit prêt.
+ En attendant qu'on ne me dérange sous aucun prétexte.
+ Me suis-je bien fait comprendre.
+\end_layout
+
+\begin_layout Standard
+Le ton et surtout le regard qu'elle lança au pauvre aubergiste suffit à
+ le décourager de toute réponse.
+ Il esquissa un pénible hochement de tête et partit à toute allure vers
+ la salle à manger où les discussions avaient repris.
+ Toutes sur le même sujet.
+ 
+\end_layout
+
+\begin_layout Standard
+Une heure plus tard, Lauranna descendit dans la salle commune où régnait
+ une atmosphère plus calme qu'à son arrivée et où flottait un délicieux
+ parfum de gibier cuit à la broche.
+ Quelques visages se tournèrent mais reprirent très vite le chemin de leur
+ godet.
+ Une table avait été nettoyée et préparée pour elle.
+ L'attention qu'on lui portait n'effaçait pas la crasse accumulée et le
+ peu de soin qu'on apportait aux objets et au mobilier d'ordinaire.
+ Les boiseries étaient noires.
+ Dans les craquelures des tables se lisaient les repas passés et le plancher
+ était maculé, presque vernis par des couches de bierre et de vinasse.
+ Mais la chaleur de la cheminée et surtout la promesse d'un bon repas fit
+ oublier quelque peu la saleté ambiante.
+ Elle s'installa tranquillement à sa table et se fit servir.
+ La serveuse n'osait pas la regarder dans les yeux pendant qu'elle la servait.
+ Lauranna hésitait entre amusement et agacement.
+ Lorsqu'elle vint pour débarrasser Lauranna lui posa doucement la main sur
+ le poignet.
+\end_layout
+
+\begin_layout Standard
+- Excusez moi, il me semble avoir aperçu des troupes sur mon chemin, il
+ y a un problème ?
+\end_layout
+
+\begin_layout Standard
+Tétanisée, la serveuse répondit.
+\end_layout
+
+\begin_layout Standard
+- Non, ma dame.
+ Ce doit être la légion\SpecialChar \ldots{}
+ Devant le regard engageant de Lauranna elle poursuivit.
+\end_layout
+
+\begin_layout Standard
+- La quatorzième je crois.
+ Nous faisons parti de son territoire.
+\end_layout
+
+\begin_layout Standard
+- Une légion complète.
+ Mais ça représente combien d'hommes ça?
+\end_layout
+
+\begin_layout Standard
+- Je ne sais pas exactement, mais pas de loin six mille je crois...
+ Si vous les avez vu, c'est qu'elle va s'installer bientôt dans les parages.
+ Ca faisait plusieurs semaines qu'on ne l'avait plus vue.
+\end_layout
+
+\begin_layout Standard
+- Ah, elle ne reste pas toujours au même endroit ? La naïveté feinte de
+ Laurana rassura la serveuse qui petit à petit se détendait et devenait
+ plus locace.
+ 
+\shape italic
+Cause ma mignone, cause
+\shape default
+.
+\end_layout
+
+\begin_layout Standard
+- Non ! Bien sûr.
+ Elle comme d'autres circulent dans toutes les marches.
+ J'y connais rien à ces histoires de défense, mais je sais qu'ils appellent
+ ça 
+\begin_inset Quotes fld
+\end_inset
+
+le dispositif
+\begin_inset Quotes frd
+\end_inset
+
+.
+ Et dans le dispositif, la quatorzième passe environ toutes les trois semaines
+ par ici.
+ En général ils s'installent dans les collines bleues.
+\end_layout
+
+\begin_layout Standard
+- Ca doit être une aubaine pour votre commerce, non ?
+\end_layout
+
+\begin_layout Standard
+- Oui et non.
+ Ils leur arrivent de réquisitionner les montures ou la nourriture du coin.
+ Normalement, ils doivent payer, mais on ne nous dit pas quand.
+ 
+\shape italic
+Encore l'hypocrisie Panshienne
+\shape default
+.
+ Se dit Lauranna.
+\end_layout
+
+\begin_layout Standard
+- Sinon, quand les soldats ou les officiers sont de permission, là c'est
+ intéressant.
+ Elle aperçu les petites éoiles qui s'allumaient dans les yeux de la serveuse.
+ 
+\shape italic
+Petite idiote, tu crois sans doute que l'un d'eux va t'épouser
+\shape default
+.
+ La jeune serveuse se nommait Milu.
+ Sans être belle, elle disposait d'atouts non négligeables, dont de grands
+ yeux bleus.
+ Elle s'arréta net interpellée par le patron qui lui reprochait de délaisser
+ sa salle.
+ Elle prit rapidement tout ce qui trainait sur la table et fila en réserve,
+ avant de revenir s'ocupper des autres clients.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Parfait.
+ Qu'elle s'installe donc, cette légion.
+ Il ne me reste plus qu'à faire preuve de patience.
+ Tout vient à point à qui sait attendre
+\shape default
+.
+ Elle avait tout son temps et elle le savait, celui-ci jouait en sa faveur,
+ du moins pour le moment encore.
+\end_layout
+
+\begin_layout Subparagraph*
+\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+La caravane s'ébranlait.
+ Tous les préparatifs avaient été bouclés la veille et Elvan est ses amis
+ n'avaient eu aucun mal à prendre place au sein des équipes d'encadrement.
+ Le T'An était visiblement un ami d'Acharb et orsqu'ils se présentèrent
+ à lui, il les reconut et accepta leur offre.
+ A l'aube toute la caravane s'était mise en mouvement.
+ D'abord amas de vaisseaux et de chars, lentement elle se muait en un sinueux
+ serpent qui glissait sur la piste pavée.
+ Quand K'Ali-Krill disparut totalement au-delà des dunes bleutées, la longue
+ procession de voiles ocres, blanches et grises arpentait une route pavée,
+ bordée ça et là de bosquets de palmiers et de fermes isolées.
+ Ce pavé vieilli et déjà bien usé par les âges était la principale différence
+ entre cette caravane et celle du désert.
+\end_layout
+
+\begin_layout Standard
+Leysseen avait été affecté au chargement des vaisseaux arrrières puis à
+ la surveillance latéral de ceux-ci.
+ Ysaël était de l'autre côté, toujours à l'arrière.
+ Quant à Elvan il chevauchait à l'avant avec le T'An et surtout un vieil
+ homme qui lui avait été présenté comme l'un des siens.
+ Le vieux jeteur de sort se faisait appeler Huy-Ren, et il n'adressa pas
+ la parole à Elvan jusqu'à ce que la cité ait disparu derrière eux.
+\end_layout
+
+\begin_layout Standard
+- Que sais-tu faire, jeune homme ? La question surpris Elvan, le murmure
+ caverneux qui l'avait émise presqu'autant.
+\end_layout
+
+\begin_layout Standard
+- Je, j'ai appris...
+\end_layout
+
+\begin_layout Standard
+- Je ne te demande pas ce que tu as appris, mais ce que tu sais faire.
+ Apprendre est une chose.
+ Faire et refaire au quotidien en est une autre.
+\end_layout
+
+\begin_layout Standard
+- Peu de choses à vrai dire.
+ Mais je profite de chaque instant pour mettre en application.
+ 
+\shape italic
+Encore un vieux rabat-joie,qui va me faire la morale sur tout et rien.
+ La barbe ! Je me demande où est Leysseen
+\shape default
+.
+ Il n'entendit pas la réponse d'Huy-Ren et ne compris pas non plus ce qui
+ se passa quand il fut poussé à bas de son faucheur.
+ ce dernier s'arréta quelques mètres plus loin et avisa un cactus à l'air
+ apétissant.
+ Huy-Ren s'écarta de la colonne et sourit de toutes ses dents pourtant peu
+ nombreuses.
+\end_layout
+
+\begin_layout Standard
+- Est-ce bien toi qui a arrêté le grand ver sur la route du sud ? J'ai du
+ mal à le croire.
+\end_layout
+
+\begin_layout Standard
+Elvan se renfrogna devant l'air hilare du vieil homme et décida de remonter
+ en selle.
+ 
+\shape italic
+Tu m'as eu cette fois,mais ce sera la dernière
+\shape default
+.
+ Alors qu'il approchait de sa monture occupée à déguster une grosse fleur
+ de cactus, celle-ci se cabra comme piquée et s'éloigna en trottinant.
+ Le rire du vieil homme fit se retourner Elvan.
+\end_layout
+
+\begin_layout Standard
+- Surprend moi jeune Jidaï-atah.
+ Remonte donc en selle.
+\end_layout
+
+\begin_layout Standard
+Elvan comprit un peu tard que Huy-Ren avait usé de magie sur lui.
+ 
+\shape italic
+D'abord cette poussée, puis le faucheur...
+ Pour ce dernier, il l'aura brûlé.
+ La chaleur est déjà suffisante pour être concentrée en un dard cuisant.
+ Jidù-Shacra, il maîtrise l'énergie
+\shape default
+.
+ Mais Elvan avait moins de certitude concernant la poussée.
+ 
+\shape italic
+Ca ne peut être que le contrôle de la matière, Jidù-Panna, mais comment
+ ? 
+\end_layout
+
+\begin_layout Standard
+La caravane continuait sa route et les deux hommes avaient déjà laissé la
+ tête loin devant.
+ Elvan décida de remonter sur son faucheur, mais cette fois il avança plus
+ calmement et au moment où le dard brûlant se reforma, le cuir déjà épais
+ de la bête avait durci pour être presque de la corne.
+ Une fine fumée âcre s'éleva de la croupe du faucheur, mais il ne sentit
+ rien.
+ Elvan était en selle.
+ Il relacha sa concentration doucement comme on lâche la main d'un enfant
+ qui vous tire en avant, sans heurt pour qu'il ne trébuche pas.
+ Huy-Ren éclata à nouveau de rire et vint à lahauteur d'Elvan.
+\end_layout
+
+\begin_layout Standard
+- Très bien mon garçon ! Tu vois quand tu veux.
+ Finalement, il y a des choses que tu sais faire.
+ 
+\end_layout
+
+\begin_layout Standard
+Il talonna sa monture et accéléra pour rejoindre la tête du cortège.
+ Le reste de la matinée se passa calmement au rythme régulier des faucheurs.
+ Ni Elvan ni Huy-Ren ne revinrent sur l'épisode du matin.
+ Le jeune homme profitait simplement de ces paysages qui s'offraient à lui.
+ Tout était source d'émerveillement pour lui.
+ S'il avait déjà goûté à la magnifiscence du désert et aux courbes voluptueuses
+ des dunes à perte de vue.
+ Il profitait maintenant de régions plus vertes où les oasis, les champs
+ cultivés et les vergers jouxtaient d'un côté le désert et de l'autre la
+ mer intérieure, aisi nommée car elle était fermée sur tois côtés.
+ Au sud, Chanseth étendait ses immenses plages de sable blanc.
+ Bien plus loin à l'est, les rivages plus acceuillants de la Terre du Milieu
+ alignaient quelques ports fameux comme Flami ou encore Malcorne.
+ Enfin, la côte nord offrait un panorama unique de fjords et de falaises
+ coupées au hachoir.
+ C'est dans ces multiples couloirs de rocailles et de glaces que le puissant
+ royaume de Darsh prenait racine.
+ La mer intérieure était une mer froide et un lieu de luttes maritimes constante
+s entre Darsh et Panshaw.
+ Les sethiens, eux n'étaient pas des marins, ils préféraient de loin naviguer
+ sur les dunes et personne ne venait leur contester cette suprématie.
+\end_layout
+
+\begin_layout Subparagraph*
+\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Ashton entra dans la taverne et il y trouva beaucoup trop de monde à son
+ goût.
+ Il y avait trois hommes du Guet, l'aubergiste devait être le petit homme
+ replet à la mine consternée, la jeune femme aux regards fuyants espionnant
+ sans cesse les réactions de l'aubergiste, la serveuse, le gamin était sans
+ doute un garçon de course ou d'écurie, peut-être le fils de l'aubergiste.
+ Tout ce petit monde entourait de questions et de remarques l'officier guetteur.
+ 
+\shape italic
+Un peu jeune effectivement
+\shape default
+.
+ Brun avec des reflets roux, plutôt grand, les yeux noisettes, il semblait
+ tendu et répondait par des phrases courtes qui se voulaient rassurantes.
+ Mais, ses gestes et son attitude générale reflétaient bien plus son stress
+ qu'il ne l'aurait voulu.
+ Personne n'avait fait attention à Ashton, et ce dernier s'était campé sur
+ le pas de la porte, observant la scène et notant tout ce qui pouvait l'être.
+\end_layout
+
+\begin_layout Standard
+Les tables étaient propres, les chaises bien rangées.
+ Cinq lampes à huile éclairaient faiblement la salle commune qui pouvait
+ contenir une cinquantaine de convives.
+ L'espace était ouvert et seules 4 énormes poutres soutenaient un plafond
+ noirci par les fumées de l'immense cheminée de pierres.
+ Au fond à droite un grand comptoir en L donnait accès, à l'arrière, sans
+ doute aux cuisines et à la réserve.
+ 
+\shape italic
+Tiens
+\shape default
+.
+ Un homme, un soldat, était assis seul à une table près d'un escalier étroit
+ en pierre, au fond à gauche qui montait à l'étage.
+ Ca doit être là haut.
+ Mais ils ont déjà tout nettoyé en bas.
+ Ca commence mal.
+ Ashton toussota, et toutes les conversations stoppèrent d'un seul homme.
+ Le jeune guetteur se précipita sur lui, visiblement très heureux de s'extirper
+ du harcèlement de l'aubergiste.
+\end_layout
+
+\begin_layout Standard
+- Vous êtes Ashton Buxley ? Il ne laissa pas le temps à Ashton de répondre
+ et enchaîna.
+\end_layout
+
+\begin_layout Standard
+- J'ai dévoré votre rapport 
+\begin_inset Quotes fld
+\end_inset
+
+Situations et contextes.
+ Maîtres mots de l'enquête.
+\begin_inset Quotes frd
+\end_inset
+
+\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+- Et vous n'en n'avez pas visiblement compris grand chose.
+ Je ne me souviens pas avoir écrit qu'il fallait nettoyer les scènes de
+ crime.
+ Ses mains ne quittèrent pas le long de son corps mais son regrad balaya
+ la salle et revint se planter dans les yeux du jeune homme.
+\end_layout
+
+\begin_layout Standard
+- Je\SpecialChar \ldots{}
+ Suis désolé, mais le corps a été découvert il y a quatre jours au petit
+ matin.
+\end_layout
+
+\begin_layout Standard
+- Et la salle commune avait déjà été nettoyée ?
+\end_layout
+
+\begin_layout Standard
+- Oui !\SpecialChar \ldots{}
+ Euh, non.
+ Effectivement d'autres voyageurs prenaient une collation en bas à ce moment
+ là.
+\end_layout
+
+\begin_layout Standard
+- J'espère que vous avez noté leur nombre, leurs noms et pris leurs dépositions.
+ Pourriez-vous me dire où ils étaient précisemment à votre arrivée ?
+\end_layout
+
+\begin_layout Standard
+- Je\SpecialChar \ldots{}
+ Et bien\SpecialChar \ldots{}
+ Il se retourna pour observer la pièce un instant, puis revint
+ vers Ashton dépité.
+ 
+\end_layout
+
+\begin_layout Standard
+- Je dois reconnaître que non.
+ Je ne me souviens plus.
+ Ashton décida que le jeu s'arrétait là.
+\end_layout
+
+\begin_layout Standard
+- Vous avez le droit de ne plus vous en souvenir.
+ Vous n'êtes pas parfait.
+ Personne ne l'est.
+ Mais vous auriez dû anticiper cet oubli et vous faciliter la tâche en exigeant
+ que plus ne rien ne soit touché avant que votre enquête ne soit terminée.
+ Ses yeux fixèrent alors l'aubergiste, puis la serveuse qui rougit et fourra
+ ses mains dans son tablier et les essuya nerveusement.
+ 
+\end_layout
+
+\begin_layout Chapter*
+Définitions
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+theendnotes
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
